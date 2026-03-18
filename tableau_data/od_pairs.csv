@@ -1,0 +1,501 @@
+dep_station,ret_station,od_pair,trip_count,avg_distance_km,avg_duration_min,ebike_count,dep_station_name,ret_station_name
+0209 Stanley Park - Information Booth,0105 Stanley Park - Totem Poles,0209 Stanley Park - Information Booth → 0105 Stanley Park - Totem Poles,1585,3.0030107255520506,30.64634069400631,673,Stanley Park - Information Booth,Stanley Park - Totem Poles
+0209 Stanley Park - Information Booth,0102 Stanley Park - Second Beach North,0209 Stanley Park - Information Booth → 0102 Stanley Park - Second Beach North,1256,7.7670597133757955,61.05098195329088,504,Stanley Park - Information Booth,Stanley Park - Second Beach North
+0105 Stanley Park - Totem Poles,0102 Stanley Park - Second Beach North,0105 Stanley Park - Totem Poles → 0102 Stanley Park - Second Beach North,1094,6.907702925045704,50.65048750761731,203,Stanley Park - Totem Poles,Stanley Park - Second Beach North
+0105 Stanley Park - Totem Poles,0103 Stanley Park - Third Beach Parking Lot,0105 Stanley Park - Totem Poles → 0103 Stanley Park - Third Beach Parking Lot,1033,5.604508228460794,43.400968054211035,206,Stanley Park - Totem Poles,Stanley Park - Third Beach Parking Lot
+0209 Stanley Park - Information Booth,0104 Stanley Park - Second Beach South,0209 Stanley Park - Information Booth → 0104 Stanley Park - Second Beach South,992,7.9144082661290325,62.14956317204301,474,Stanley Park - Information Booth,Stanley Park - Second Beach South
+0105 Stanley Park - Totem Poles,0209 Stanley Park - Information Booth,0105 Stanley Park - Totem Poles → 0209 Stanley Park - Information Booth,969,6.426455448916409,55.215651874785,336,Stanley Park - Totem Poles,Stanley Park - Information Booth
+0209 Stanley Park - Information Booth,0103 Stanley Park - Third Beach Parking Lot,0209 Stanley Park - Information Booth → 0103 Stanley Park - Third Beach Parking Lot,945,6.5713513227513225,53.82514991181658,368,Stanley Park - Information Booth,Stanley Park - Third Beach Parking Lot
+0209 Stanley Park - Information Booth,0181 Denman & Bayshore,0209 Stanley Park - Information Booth → 0181 Denman & Bayshore,735,8.08014693877551,66.7334693877551,382,Stanley Park - Information Booth,Denman & Bayshore
+0101 Stanley Park - Vancouver Aquarium,0209 Stanley Park - Information Booth,0101 Stanley Park - Vancouver Aquarium → 0209 Stanley Park - Information Booth,651,6.729294930875576,58.57337429595495,208,Stanley Park - Vancouver Aquarium,Stanley Park - Information Booth
+0104 Stanley Park - Second Beach South,0102 Stanley Park - Second Beach North,0104 Stanley Park - Second Beach South → 0102 Stanley Park - Second Beach North,646,7.321558823529411,60.96504127966976,165,Stanley Park - Second Beach South,Stanley Park - Second Beach North
+0209 Stanley Park - Information Booth,0101 Stanley Park - Vancouver Aquarium,0209 Stanley Park - Information Booth → 0101 Stanley Park - Vancouver Aquarium,577,5.865856152512999,57.45626805314848,290,Stanley Park - Information Booth,Stanley Park - Vancouver Aquarium
+0209 Stanley Park - Information Booth,0028 Davie & Beach,0209 Stanley Park - Information Booth → 0028 Davie & Beach,569,8.754976572934973,66.55427650849443,294,Stanley Park - Information Booth,Davie & Beach
+0103 Stanley Park - Third Beach Parking Lot,0028 Davie & Beach,0103 Stanley Park - Third Beach Parking Lot → 0028 Davie & Beach,558,3.125182795698925,21.01636798088411,157,Stanley Park - Third Beach Parking Lot,Davie & Beach
+0103 Stanley Park - Third Beach Parking Lot,0102 Stanley Park - Second Beach North,0103 Stanley Park - Third Beach Parking Lot → 0102 Stanley Park - Second Beach North,555,2.434136936936937,21.705825825825826,96,Stanley Park - Third Beach Parking Lot,Stanley Park - Second Beach North
+0105 Stanley Park - Totem Poles,0104 Stanley Park - Second Beach South,0105 Stanley Park - Totem Poles → 0104 Stanley Park - Second Beach South,555,7.059165765765766,55.557627627627625,137,Stanley Park - Totem Poles,Stanley Park - Second Beach South
+0129 Richards & Robson,0082 Richards & Davie,0129 Richards & Robson → 0082 Richards & Davie,491,0.7946720977596741,9.966972165648336,72,Richards & Robson,Richards & Davie
+0181 Denman & Bayshore,0105 Stanley Park - Totem Poles,0181 Denman & Bayshore → 0105 Stanley Park - Totem Poles,475,2.76688,22.17635087719298,106,Denman & Bayshore,Stanley Park - Totem Poles
+0074 10th & Main,0001 10th & Cambie,0074 10th & Main → 0001 10th & Cambie,473,0.9476004228329811,9.720401691331924,87,10th & Main,10th & Cambie
+0103 Stanley Park - Third Beach Parking Lot,0031 Morton & Denman,0103 Stanley Park - Third Beach Parking Lot → 0031 Morton & Denman,467,2.9631541755888655,30.47769450392577,100,Stanley Park - Third Beach Parking Lot,Morton & Denman
+0105 Stanley Park - Totem Poles,0181 Denman & Bayshore,0105 Stanley Park - Totem Poles → 0181 Denman & Bayshore,457,6.124669584245077,49.6966447848286,111,Stanley Park - Totem Poles,Denman & Bayshore
+0102 Stanley Park - Second Beach North,0104 Stanley Park - Second Beach South,0102 Stanley Park - Second Beach North → 0104 Stanley Park - Second Beach South,454,4.861911894273128,46.392070484581495,100,Stanley Park - Second Beach North,Stanley Park - Second Beach South
+0082 Richards & Davie,0129 Richards & Robson,0082 Richards & Davie → 0129 Richards & Robson,454,0.747248898678414,6.236820851688694,95,Richards & Davie,Richards & Robson
+2116 Orchard Commons,2134 UBC Bookstore,2116 Orchard Commons → 2134 UBC Bookstore,449,1.0105300668151447,7.6220118782479584,308,Orchard Commons,UBC Bookstore
+0187 Bute & Davie,0300 Bute & Barclay,0187 Bute & Davie → 0300 Bute & Barclay,439,0.4671981776765376,3.1171222475322704,144,Bute & Davie,Bute & Barclay
+0040 Cardero & Davie,0041 Cardero & Robson,0040 Cardero & Davie → 0041 Cardero & Robson,437,0.6566064073226545,6.745995423340961,97,Cardero & Davie,Cardero & Robson
+2116 Orchard Commons,2143 War Memorial Gym,2116 Orchard Commons → 2143 War Memorial Gym,436,1.2402844036697247,17.856995412844036,324,Orchard Commons,War Memorial Gym
+2143 War Memorial Gym,2116 Orchard Commons,2143 War Memorial Gym → 2116 Orchard Commons,435,1.2702919540229884,7.000498084291188,312,War Memorial Gym,Orchard Commons
+0209 Stanley Park - Information Booth,0014 Canada Place,0209 Stanley Park - Information Booth → 0014 Canada Place,425,8.214964705882354,72.74525490196079,191,Stanley Park - Information Booth,Canada Place
+0103 Stanley Park - Third Beach Parking Lot,0104 Stanley Park - Second Beach South,0103 Stanley Park - Third Beach Parking Lot → 0104 Stanley Park - Second Beach South,417,3.0471558752997603,25.87505995203837,90,Stanley Park - Third Beach Parking Lot,Stanley Park - Second Beach South
+0181 Denman & Bayshore,0209 Stanley Park - Information Booth,0181 Denman & Bayshore → 0209 Stanley Park - Information Booth,412,4.024883495145631,38.267030744336566,100,Denman & Bayshore,Stanley Park - Information Booth
+0209 Stanley Park - Information Booth,0031 Morton & Denman,0209 Stanley Park - Information Booth → 0031 Morton & Denman,403,8.675563275434243,61.51385442514474,200,Stanley Park - Information Booth,Morton & Denman
+2134 UBC Bookstore,2116 Orchard Commons,2134 UBC Bookstore → 2116 Orchard Commons,400,0.9974225,9.618166666666667,284,UBC Bookstore,Orchard Commons
+0028 Davie & Beach,0102 Stanley Park - Second Beach North,0028 Davie & Beach → 0102 Stanley Park - Second Beach North,386,4.4428419689119165,34.29356649395509,92,Davie & Beach,Stanley Park - Second Beach North
+0041 Cardero & Robson,0040 Cardero & Davie,0041 Cardero & Robson → 0040 Cardero & Davie,383,0.6455248041775457,4.356527415143603,45,Cardero & Robson,Cardero & Davie
+0300 Bute & Barclay,0187 Bute & Davie,0300 Bute & Barclay → 0187 Bute & Davie,382,0.5178176178010472,3.110602094240838,79,Bute & Barclay,Bute & Davie
+0102 Stanley Park - Second Beach North,0028 Davie & Beach,0102 Stanley Park - Second Beach North → 0028 Davie & Beach,369,2.5587344173441733,18.0436766034327,107,Stanley Park - Second Beach North,Davie & Beach
+0006 Olympic Village Station,0174 1st & Manitoba,0006 Olympic Village Station → 0174 1st & Manitoba,369,1.0119376693766937,5.668021680216802,27,Olympic Village Station,1st & Manitoba
+2116 Orchard Commons,2132 IK Barber Learning Centre,2116 Orchard Commons → 2132 IK Barber Learning Centre,368,1.2325190217391304,7.1701539855072465,261,Orchard Commons,IK Barber Learning Centre
+0107 8th & Ontario,0170 8th & Yukon,0107 8th & Ontario → 0170 8th & Yukon,368,0.5776331521739131,4.148007246376812,87,8th & Ontario,8th & Yukon
+0045 Beach & Hornby,0028 Davie & Beach,0045 Beach & Hornby → 0028 Davie & Beach,368,2.6450190217391305,16.68143115942029,56,Beach & Hornby,Davie & Beach
+0310 Jervis & Robson,0122 Haro & Denman,0310 Jervis & Robson → 0122 Haro & Denman,363,0.9578301101928374,4.892929292929293,36,Jervis & Robson,Haro & Denman
+0196 Hornby & Drake,0024 Hornby & Pender,0196 Hornby & Drake → 0024 Hornby & Pender,360,1.4781555555555554,9.027731481481482,81,Hornby & Drake,Hornby & Pender
+0028 Davie & Beach,0103 Stanley Park - Third Beach Parking Lot,0028 Davie & Beach → 0103 Stanley Park - Third Beach Parking Lot,356,4.129353932584269,30.619803370786517,108,Davie & Beach,Stanley Park - Third Beach Parking Lot
+0181 Denman & Bayshore,0102 Stanley Park - Second Beach North,0181 Denman & Bayshore → 0102 Stanley Park - Second Beach North,353,8.026393767705382,56.34900849858357,92,Denman & Bayshore,Stanley Park - Second Beach North
+0166 Alder & 11th,0001 10th & Cambie,0166 Alder & 11th → 0001 10th & Cambie,339,1.3734896755162243,9.805162241887905,94,Alder & 11th,10th & Cambie
+0300 Bute & Barclay,0040 Cardero & Davie,0300 Bute & Barclay → 0040 Cardero & Davie,337,1.0207388724035606,5.8316023738872405,67,Bute & Barclay,Cardero & Davie
+0218 Carrall & Seawall,0011 Ontario & Seawall,0218 Carrall & Seawall → 0011 Ontario & Seawall,336,1.116077380952381,6.704662698412699,43,Carrall & Seawall,Ontario & Seawall
+0050 Bute & Comox,0032 Comox & Denman,0050 Bute & Comox → 0032 Comox & Denman,334,0.942437125748503,8.599850299401197,35,Bute & Comox,Comox & Denman
+0024 Hornby & Pender,0196 Hornby & Drake,0024 Hornby & Pender → 0196 Hornby & Drake,333,1.6623003003003005,14.001751751751751,83,Hornby & Pender,Hornby & Drake
+0001 10th & Cambie,0074 10th & Main,0001 10th & Cambie → 0074 10th & Main,330,0.9330909090909092,6.031414141414141,120,10th & Cambie,10th & Main
+0001 10th & Cambie,0166 Alder & 11th,0001 10th & Cambie → 0166 Alder & 11th,330,1.409699,7.554090909090909,110,10th & Cambie,Alder & 11th
+0102 Stanley Park - Second Beach North,0103 Stanley Park - Third Beach Parking Lot,0102 Stanley Park - Second Beach North → 0103 Stanley Park - Third Beach Parking Lot,330,3.920024242424242,34.96121212121212,77,Stanley Park - Second Beach North,Stanley Park - Third Beach Parking Lot
+0058 Richards & Smithe,0082 Richards & Davie,0058 Richards & Smithe → 0082 Richards & Davie,327,0.5926951987767584,4.257186544342507,31,Richards & Smithe,Richards & Davie
+0189 Granville Island,0011 Ontario & Seawall,0189 Granville Island → 0011 Ontario & Seawall,327,3.3360519877675845,18.637665647298675,58,Granville Island,Ontario & Seawall
+0176 10th & Ontario,0001 10th & Cambie,0176 10th & Ontario → 0001 10th & Cambie,327,0.745737003058104,5.046126401630988,35,10th & Ontario,10th & Cambie
+Stanley Park - Information Booth,Stanley Park - Second Beach North,Stanley Park - Information Booth → Stanley Park - Second Beach North,326,8.037009202453987,57.72704498977505,164,Stanley Park - Information Booth,Stanley Park - Second Beach North
+0104 Stanley Park - Second Beach South,0103 Stanley Park - Third Beach Parking Lot,0104 Stanley Park - Second Beach South → 0103 Stanley Park - Third Beach Parking Lot,324,4.415577160493827,34.609413580246915,88,Stanley Park - Second Beach South,Stanley Park - Third Beach Parking Lot
+0132 14th & Ontario,0001 10th & Cambie,0132 14th & Ontario → 0001 10th & Cambie,321,1.12596261682243,8.126843198338525,62,14th & Ontario,10th & Cambie
+0101 Stanley Park - Vancouver Aquarium,0102 Stanley Park - Second Beach North,0101 Stanley Park - Vancouver Aquarium → 0102 Stanley Park - Second Beach North,321,6.698127725856699,55.15628245067498,102,Stanley Park - Vancouver Aquarium,Stanley Park - Second Beach North
+0400 Jericho Beach,0154 Kitsilano Beach Park,0400 Jericho Beach → 0154 Kitsilano Beach Park,319,3.1990815047021943,18.083385579937307,60,Jericho Beach,Kitsilano Beach Park
+0193 Science World,0189 Granville Island,0193 Science World → 0189 Granville Island,316,3.5246012658227843,21.71518987341772,46,Science World,Granville Island
+0181 Denman & Bayshore,0014 Canada Place,0181 Denman & Bayshore → 0014 Canada Place,313,5.382664536741213,49.09435569755058,108,Denman & Bayshore,Canada Place
+0028 Davie & Beach,0104 Stanley Park - Second Beach South,0028 Davie & Beach → 0104 Stanley Park - Second Beach South,313,5.041734824281151,42.86640042598509,75,Davie & Beach,Stanley Park - Second Beach South
+0101 Stanley Park - Vancouver Aquarium,0105 Stanley Park - Totem Poles,0101 Stanley Park - Vancouver Aquarium → 0105 Stanley Park - Totem Poles,312,4.108112179487179,36.08173076923077,95,Stanley Park - Vancouver Aquarium,Stanley Park - Totem Poles
+0014 Canada Place,0200 Cardero & Bayshore,0014 Canada Place → 0200 Cardero & Bayshore,310,2.5235870967741936,21.95811827956989,42,Canada Place,Cardero & Bayshore
+0181 Denman & Bayshore,0103 Stanley Park - Third Beach Parking Lot,0181 Denman & Bayshore → 0103 Stanley Park - Third Beach Parking Lot,309,7.043187702265372,54.64832793959007,86,Denman & Bayshore,Stanley Park - Third Beach Parking Lot
+Stanley Park - Information Booth,Stanley Park - Totem Poles,Stanley Park - Information Booth → Stanley Park - Totem Poles,309,2.7375210355987054,24.116343042071197,154,Stanley Park - Information Booth,Stanley Park - Totem Poles
+0196 Hornby & Drake,0037 Hornby & Nelson,0196 Hornby & Drake → 0037 Hornby & Nelson,308,0.7807857142857143,6.024729437229437,58,Hornby & Drake,Hornby & Nelson
+0174 1st & Manitoba,0006 Olympic Village Station,0174 1st & Manitoba → 0006 Olympic Village Station,306,1.0647091503267974,6.795806100217866,116,1st & Manitoba,Olympic Village Station
+0181 Denman & Bayshore,0104 Stanley Park - Second Beach South,0181 Denman & Bayshore → 0104 Stanley Park - Second Beach South,306,8.003137254901961,60.47799564270152,92,Denman & Bayshore,Stanley Park - Second Beach South
+0105 Stanley Park - Totem Poles,0028 Davie & Beach,0105 Stanley Park - Totem Poles → 0028 Davie & Beach,304,7.802654605263158,52.49753289473684,84,Stanley Park - Totem Poles,Davie & Beach
+0105 Stanley Park - Totem Poles,0101 Stanley Park - Vancouver Aquarium,0105 Stanley Park - Totem Poles → 0101 Stanley Park - Vancouver Aquarium,302,4.118317880794702,40.61341059602649,84,Stanley Park - Totem Poles,Stanley Park - Vancouver Aquarium
+0083 Aquatic Centre,0028 Davie & Beach,0083 Aquatic Centre → 0028 Davie & Beach,302,3.2787350993377484,42.90805739514349,72,Aquatic Centre,Davie & Beach
+0084 Beach & Broughton,0028 Davie & Beach,0084 Beach & Broughton → 0028 Davie & Beach,302,1.7101423841059602,14.541832229580574,42,Beach & Broughton,Davie & Beach
+0300 Bute & Barclay,0122 Haro & Denman,0300 Bute & Barclay → 0122 Haro & Denman,299,1.1036220735785953,9.646432552954291,16,Bute & Barclay,Haro & Denman
+0102 Stanley Park - Second Beach North,0031 Morton & Denman,0102 Stanley Park - Second Beach North → 0031 Morton & Denman,299,3.346006688963211,26.200947603121516,71,Stanley Park - Second Beach North,Morton & Denman
+2132 IK Barber Learning Centre,2116 Orchard Commons,2132 IK Barber Learning Centre → 2116 Orchard Commons,295,1.2597661016949153,16.772146892655368,224,IK Barber Learning Centre,Orchard Commons
+2114 West Mall Swing Space Building,2143 War Memorial Gym,2114 West Mall Swing Space Building → 2143 War Memorial Gym,295,0.8679830508474576,4.992372881355932,172,West Mall Swing Space Building,War Memorial Gym
+0017 Marinaside & Davie,0011 Ontario & Seawall,0017 Marinaside & Davie → 0011 Ontario & Seawall,295,2.2036169491525426,11.170621468926555,30,Marinaside & Davie,Ontario & Seawall
+0099 šxʷƛ̓ənəq Xwtl'e7énḵ Square - Vancouver Art Gallery,0196 Hornby & Drake,0099 šxʷƛ̓ənəq Xwtl'e7énḵ Square - Vancouver Art Gallery → 0196 Hornby & Drake,294,1.0227176870748298,6.873356009070295,57,šxʷƛ̓ənəq Xwtl'e7énḵ Square - Vancouver Art Gallery,Hornby & Drake
+0193 Science World,0017 Marinaside & Davie,0193 Science World → 0017 Marinaside & Davie,292,1.7114509246575342,8.26700913242009,15,Science World,Marinaside & Davie
+0104 Stanley Park - Second Beach South,0105 Stanley Park - Totem Poles,0104 Stanley Park - Second Beach South → 0105 Stanley Park - Totem Poles,288,4.443899305555556,36.39855324074074,93,Stanley Park - Second Beach South,Stanley Park - Totem Poles
+0037 Hornby & Nelson,0196 Hornby & Drake,0037 Hornby & Nelson → 0196 Hornby & Drake,285,0.7427473684210526,6.296081871345029,51,Hornby & Nelson,Hornby & Drake
+0082 Richards & Davie,0305 Georgia & Homer,0082 Richards & Davie → 0305 Georgia & Homer,282,1.0075992907801417,6.673522458628842,65,Richards & Davie,Georgia & Homer
+0105 Stanley Park - Totem Poles,0031 Morton & Denman,0105 Stanley Park - Totem Poles → 0031 Morton & Denman,281,7.8822099644128105,51.23208778173191,69,Stanley Park - Totem Poles,Morton & Denman
+0101 Stanley Park - Vancouver Aquarium,0103 Stanley Park - Third Beach Parking Lot,0101 Stanley Park - Vancouver Aquarium → 0103 Stanley Park - Third Beach Parking Lot,281,5.532459074733096,55.27366548042704,73,Stanley Park - Vancouver Aquarium,Stanley Park - Third Beach Parking Lot
+2143 War Memorial Gym,2252 Wesbrook Village - Berton & Shrum,2143 War Memorial Gym → 2252 Wesbrook Village - Berton & Shrum,281,2.2177153024911034,14.609193357058126,177,War Memorial Gym,Wesbrook Village - Berton & Shrum
+0006 Olympic Village Station,0189 Granville Island,0006 Olympic Village Station → 0189 Granville Island,280,2.411753571428571,17.448214285714286,30,Olympic Village Station,Granville Island
+0050 Bute & Comox,0002 Burrard Station (Melville & Dunsmuir),0050 Bute & Comox → 0002 Burrard Station (Melville & Dunsmuir),278,1.2061870503597123,10.320383693045564,46,Bute & Comox,Burrard Station (Melville & Dunsmuir)
+0300 Bute & Barclay,0032 Comox & Denman,0300 Bute & Barclay → 0032 Comox & Denman,276,1.1440398550724638,8.796074879227053,22,Bute & Barclay,Comox & Denman
+2116 Orchard Commons,2114 West Mall Swing Space Building,2116 Orchard Commons → 2114 West Mall Swing Space Building,274,0.8221058394160584,6.849391727493917,161,Orchard Commons,West Mall Swing Space Building
+2143 War Memorial Gym,2114 West Mall Swing Space Building,2143 War Memorial Gym → 2114 West Mall Swing Space Building,273,0.9517399267399267,8.004700854700854,150,War Memorial Gym,West Mall Swing Space Building
+0196 Hornby & Drake,0099 šxʷƛ̓ənəq Xwtl'e7énḵ Square - Vancouver Art Gallery,0196 Hornby & Drake → 0099 šxʷƛ̓ənəq Xwtl'e7énḵ Square - Vancouver Art Gallery,271,1.162542435424354,7.335239852398524,48,Hornby & Drake,šxʷƛ̓ənəq Xwtl'e7énḵ Square - Vancouver Art Gallery
+0104 Stanley Park - Second Beach South,0028 Davie & Beach,0104 Stanley Park - Second Beach South → 0028 Davie & Beach,268,4.581156716417911,36.365174129353235,76,Stanley Park - Second Beach South,Davie & Beach
+0104 Stanley Park - Second Beach South,0209 Stanley Park - Information Booth,0104 Stanley Park - Second Beach South → 0209 Stanley Park - Information Booth,267,4.041404494382022,33.956117353308365,77,Stanley Park - Second Beach South,Stanley Park - Information Booth
+0101 Stanley Park - Vancouver Aquarium,0104 Stanley Park - Second Beach South,0101 Stanley Park - Vancouver Aquarium → 0104 Stanley Park - Second Beach South,267,6.303936329588015,55.78489388264669,84,Stanley Park - Vancouver Aquarium,Stanley Park - Second Beach South
+0244 10th & Commercial,0283 15th & Knight,0244 10th & Commercial → 0283 15th & Knight,266,0.9372744360902255,7.340726817042607,16,10th & Commercial,15th & Knight
+0006 Olympic Village Station,0173 Columbia & 1st,0006 Olympic Village Station → 0173 Columbia & 1st,266,0.8473183082706768,8.407142857142858,14,Olympic Village Station,Columbia & 1st
+0001 10th & Cambie,0172 10th & Columbia,0001 10th & Cambie → 0172 10th & Columbia,265,0.4428716981132076,8.497735849056603,59,10th & Cambie,10th & Columbia
+0011 Ontario & Seawall,0017 Marinaside & Davie,0011 Ontario & Seawall → 0017 Marinaside & Davie,264,2.399628787878788,10.72411616161616,36,Ontario & Seawall,Marinaside & Davie
+0105 Stanley Park - Totem Poles,0014 Canada Place,0105 Stanley Park - Totem Poles → 0014 Canada Place,263,7.366768060836502,52.33802281368821,86,Stanley Park - Totem Poles,Canada Place
+0154 Kitsilano Beach Park,0400 Jericho Beach,0154 Kitsilano Beach Park → 0400 Jericho Beach,263,3.38145247148289,30.191571609632447,47,Kitsilano Beach Park,Jericho Beach
+0193 Science World,0073 Ontario & 5th,0193 Science World → 0073 Ontario & 5th,263,0.971574144486692,6.0185678073510775,29,Science World,Ontario & 5th
+0217 Smithe & Burrard,0122 Haro & Denman,0217 Smithe & Burrard → 0122 Haro & Denman,263,1.303106463878327,6.897211660329531,96,Smithe & Burrard,Haro & Denman
+2134 UBC Bookstore,2252 Wesbrook Village - Berton & Shrum,2134 UBC Bookstore → 2252 Wesbrook Village - Berton & Shrum,258,2.30968992248062,14.91686046511628,141,UBC Bookstore,Wesbrook Village - Berton & Shrum
+Stanley Park - Totem Poles,Stanley Park - Information Booth,Stanley Park - Totem Poles → Stanley Park - Information Booth,254,7.159570866141732,54.26574803149607,119,Stanley Park - Totem Poles,Stanley Park - Information Booth
+0174 1st & Manitoba,0197 1st & Scotia,0174 1st & Manitoba → 0197 1st & Scotia,253,0.8712793280632412,5.361396574440053,36,1st & Manitoba,1st & Scotia
+2154 Strangway Building,2116 Orchard Commons,2154 Strangway Building → 2116 Orchard Commons,251,1.2711195219123506,9.037782204515272,142,Strangway Building,Orchard Commons
+Stanley Park - Information Booth,Stanley Park - Third Beach Parking Lot,Stanley Park - Information Booth → Stanley Park - Third Beach Parking Lot,251,6.736697211155379,59.78579017264276,118,Stanley Park - Information Booth,Stanley Park - Third Beach Parking Lot
+0300 Bute & Barclay,0039 Helmcken & Burrard,0300 Bute & Barclay → 0039 Helmcken & Burrard,250,0.862336,5.254666666666667,39,Bute & Barclay,Helmcken & Burrard
+0193 Science World,0006 Olympic Village Station,0193 Science World → 0006 Olympic Village Station,250,1.6560240000000002,8.0604,11,Science World,Olympic Village Station
+0102 Stanley Park - Second Beach North,0105 Stanley Park - Totem Poles,0102 Stanley Park - Second Beach North → 0105 Stanley Park - Totem Poles,249,4.045682730923695,37.18032128514056,63,Stanley Park - Second Beach North,Stanley Park - Totem Poles
+0217 Smithe & Burrard,0040 Cardero & Davie,0217 Smithe & Burrard → 0040 Cardero & Davie,247,1.5619838056680162,6.5861673414304995,126,Smithe & Burrard,Cardero & Davie
+0066 Anderson & 2nd,0154 Kitsilano Beach Park,0066 Anderson & 2nd → 0154 Kitsilano Beach Park,247,2.7448016194331983,20.422874493927125,45,Anderson & 2nd,Kitsilano Beach Park
+2114 West Mall Swing Space Building,2252 Wesbrook Village - Berton & Shrum,2114 West Mall Swing Space Building → 2252 Wesbrook Village - Berton & Shrum,247,2.512485829959514,20.61140350877193,137,West Mall Swing Space Building,Wesbrook Village - Berton & Shrum
+0129 Richards & Robson,0044 Pacific & Richards,0129 Richards & Robson → 0044 Pacific & Richards,247,1.202255060728745,11.042712550607288,46,Richards & Robson,Pacific & Richards
+2116 Orchard Commons,2252 Wesbrook Village - Berton & Shrum,2116 Orchard Commons → 2252 Wesbrook Village - Berton & Shrum,246,2.1185975609756094,16.758739837398373,170,Orchard Commons,Wesbrook Village - Berton & Shrum
+0017 Marinaside & Davie,0193 Science World,0017 Marinaside & Davie → 0193 Science World,246,1.848658536585366,9.024186991869918,21,Marinaside & Davie,Science World
+0148 Creekside Park North,0017 Marinaside & Davie,0148 Creekside Park North → 0017 Marinaside & Davie,243,1.5269012345679012,11.05973936899863,29,Creekside Park North,Marinaside & Davie
+0045 Beach & Hornby,0004 Yaletown-Roundhouse Station,0045 Beach & Hornby → 0004 Yaletown-Roundhouse Station,243,1.2819588477366255,10.038203017832647,34,Beach & Hornby,Yaletown-Roundhouse Station
+0217 Smithe & Burrard,0041 Cardero & Robson,0217 Smithe & Burrard → 0041 Cardero & Robson,243,1.6759917695473252,10.597256515775033,89,Smithe & Burrard,Cardero & Robson
+0014 Canada Place,0181 Denman & Bayshore,0014 Canada Place → 0181 Denman & Bayshore,242,3.895719008264463,25.41280991735537,39,Canada Place,Denman & Bayshore
+0082 Richards & Davie,0058 Richards & Smithe,0082 Richards & Davie → 0058 Richards & Smithe,241,0.7404107883817427,7.336168741355463,35,Richards & Davie,Richards & Smithe
+0073 Ontario & 5th,0193 Science World,0073 Ontario & 5th → 0193 Science World,240,0.9348124999999999,5.593680555555555,12,Ontario & 5th,Science World
+0173 Columbia & 1st,0006 Olympic Village Station,0173 Columbia & 1st → 0006 Olympic Village Station,240,0.8429125000000001,15.284513888888888,43,Columbia & 1st,Olympic Village Station
+0011 Ontario & Seawall,0189 Granville Island,0011 Ontario & Seawall → 0189 Granville Island,240,3.3311291666666665,25.872916666666665,35,Ontario & Seawall,Granville Island
+0197 1st & Scotia,0174 1st & Manitoba,0197 1st & Scotia → 0174 1st & Manitoba,239,0.7486652719665271,4.426987447698744,14,1st & Scotia,1st & Manitoba
+2117 Totem Park,2134 UBC Bookstore,2117 Totem Park → 2134 UBC Bookstore,238,1.4674369747899159,10.608263305322128,113,Totem Park,UBC Bookstore
+0103 Stanley Park - Third Beach Parking Lot,0209 Stanley Park - Information Booth,0103 Stanley Park - Third Beach Parking Lot → 0209 Stanley Park - Information Booth,238,4.54236974789916,38.64362745098039,94,Stanley Park - Third Beach Parking Lot,Stanley Park - Information Booth
+0012 Dunsmuir & Richards,0082 Richards & Davie,0012 Dunsmuir & Richards → 0082 Richards & Davie,237,1.1777721518987343,7.265400843881857,70,Dunsmuir & Richards,Richards & Davie
+0102 Stanley Park - Second Beach North,0209 Stanley Park - Information Booth,0102 Stanley Park - Second Beach North → 0209 Stanley Park - Information Booth,237,4.139940928270042,38.288045007032345,51,Stanley Park - Second Beach North,Stanley Park - Information Booth
+0189 Granville Island,0193 Science World,0189 Granville Island → 0193 Science World,237,3.661151898734177,21.665541490857947,25,Granville Island,Science World
+0014 Canada Place,0105 Stanley Park - Totem Poles,0014 Canada Place → 0105 Stanley Park - Totem Poles,237,4.10306329113924,27.249859353023908,38,Canada Place,Stanley Park - Totem Poles
+0173 Columbia & 1st,0193 Science World,0173 Columbia & 1st → 0193 Science World,236,0.9891059322033898,6.392725988700565,54,Columbia & 1st,Science World
+0082 Richards & Davie,0012 Dunsmuir & Richards,0082 Richards & Davie → 0012 Dunsmuir & Richards,235,1.1258425531914895,8.379078014184397,68,Richards & Davie,Dunsmuir & Richards
+0103 Stanley Park - Third Beach Parking Lot,0181 Denman & Bayshore,0103 Stanley Park - Third Beach Parking Lot → 0181 Denman & Bayshore,234,3.887260683760684,32.211039886039885,44,Stanley Park - Third Beach Parking Lot,Denman & Bayshore
+2134 UBC Bookstore,2117 Totem Park,2134 UBC Bookstore → 2117 Totem Park,234,1.3543504273504274,24.851709401709403,105,UBC Bookstore,Totem Park
+0006 Olympic Village Station,0193 Science World,0006 Olympic Village Station → 0193 Science World,233,1.7450543776824035,7.783118741058655,15,Olympic Village Station,Science World
+0187 Bute & Davie,0217 Smithe & Burrard,0187 Bute & Davie → 0217 Smithe & Burrard,233,0.9484763948497854,6.898855507868384,47,Bute & Davie,Smithe & Burrard
+0170 8th & Yukon,0107 8th & Ontario,0170 8th & Yukon → 0107 8th & Ontario,231,0.5974458874458874,7.430230880230881,36,8th & Yukon,8th & Ontario
+0177 Quebec & 1st,0006 Olympic Village Station,0177 Quebec & 1st → 0006 Olympic Village Station,230,1.2667550869565218,5.733695652173913,43,Quebec & 1st,Olympic Village Station
+0004 Yaletown-Roundhouse Station,0045 Beach & Hornby,0004 Yaletown-Roundhouse Station → 0045 Beach & Hornby,229,1.5210203930131005,8.892066957787481,40,Yaletown-Roundhouse Station,Beach & Hornby
+0187 Bute & Davie,0032 Comox & Denman,0187 Bute & Davie → 0032 Comox & Denman,228,1.117219298245614,7.116812865497075,43,Bute & Davie,Comox & Denman
+0019 Robson & Hornby,0196 Hornby & Drake,0019 Robson & Hornby → 0196 Hornby & Drake,228,1.0761754385964912,8.380482456140351,36,Robson & Hornby,Hornby & Drake
+2252 Wesbrook Village - Berton & Shrum,2114 West Mall Swing Space Building,2252 Wesbrook Village - Berton & Shrum → 2114 West Mall Swing Space Building,228,2.365828947368421,23.685818713450292,131,Wesbrook Village - Berton & Shrum,West Mall Swing Space Building
+0144 Wylie & 2nd,0174 1st & Manitoba,0144 Wylie & 2nd → 0174 1st & Manitoba,227,0.7408810572687224,9.694273127753304,66,Wylie & 2nd,1st & Manitoba
+Stanley Park - Totem Poles,Stanley Park - Second Beach North,Stanley Park - Totem Poles → Stanley Park - Second Beach North,227,7.220863436123348,45.629882525697504,45,Stanley Park - Totem Poles,Stanley Park - Second Beach North
+0011 Ontario & Seawall,0218 Carrall & Seawall,0011 Ontario & Seawall → 0218 Carrall & Seawall,227,1.206898678414097,12.854698972099852,29,Ontario & Seawall,Carrall & Seawall
+0037 Hornby & Nelson,0024 Hornby & Pender,0037 Hornby & Nelson → 0024 Hornby & Pender,226,1.0591946902654867,7.595206489675516,42,Hornby & Nelson,Hornby & Pender
+0083 Aquatic Centre,0102 Stanley Park - Second Beach North,0083 Aquatic Centre → 0102 Stanley Park - Second Beach North,226,4.360221238938053,30.122492625368732,63,Aquatic Centre,Stanley Park - Second Beach North
+0066 Anderson & 2nd,0011 Ontario & Seawall,0066 Anderson & 2nd → 0011 Ontario & Seawall,225,3.405902222222222,25.61851851851852,39,Anderson & 2nd,Ontario & Seawall
+0028 Davie & Beach,0083 Aquatic Centre,0028 Davie & Beach → 0083 Aquatic Centre,225,3.140097777777778,21.487555555555556,59,Davie & Beach,Aquatic Centre
+0174 1st & Manitoba,0193 Science World,0174 1st & Manitoba → 0193 Science World,225,0.7538370222222222,4.6103703703703705,64,1st & Manitoba,Science World
+0181 Denman & Bayshore,0028 Davie & Beach,0181 Denman & Bayshore → 0028 Davie & Beach,224,9.393982142857142,69.91227678571428,82,Denman & Bayshore,Davie & Beach
+0200 Cardero & Bayshore,0105 Stanley Park - Totem Poles,0200 Cardero & Bayshore → 0105 Stanley Park - Totem Poles,223,2.8985739910313897,22.6914798206278,26,Cardero & Bayshore,Stanley Park - Totem Poles
+0189 Granville Island,0154 Kitsilano Beach Park,0189 Granville Island → 0154 Kitsilano Beach Park,223,3.209367713004484,24.840059790732436,52,Granville Island,Kitsilano Beach Park
+0006 Olympic Village Station,0011 Ontario & Seawall,0006 Olympic Village Station → 0011 Ontario & Seawall,222,1.5163693693693694,11.477552552552554,21,Olympic Village Station,Ontario & Seawall
+0138 Richards & Helmcken,0005 Dunsmuir & Beatty,0138 Richards & Helmcken → 0005 Dunsmuir & Beatty,222,1.3298423423423424,11.065915915915916,43,Richards & Helmcken,Dunsmuir & Beatty
+0028 Davie & Beach,0031 Morton & Denman,0028 Davie & Beach → 0031 Morton & Denman,222,8.109684684684684,81.4078078078078,91,Davie & Beach,Morton & Denman
+0191 7th & Laurel,0006 Olympic Village Station,0191 7th & Laurel → 0006 Olympic Village Station,222,0.7378648648648648,4.160960960960961,26,7th & Laurel,Olympic Village Station
+0154 Kitsilano Beach Park,0189 Granville Island,0154 Kitsilano Beach Park → 0189 Granville Island,220,3.089259090909091,26.12310606060606,50,Kitsilano Beach Park,Granville Island
+0044 Pacific & Richards,0012 Dunsmuir & Richards,0044 Pacific & Richards → 0012 Dunsmuir & Richards,220,1.5446863636363637,10.456060606060607,79,Pacific & Richards,Dunsmuir & Richards
+Stanley Park - Totem Poles,Stanley Park - Third Beach Parking Lot,Stanley Park - Totem Poles → Stanley Park - Third Beach Parking Lot,219,5.8503196347031965,44.886073059360726,61,Stanley Park - Totem Poles,Stanley Park - Third Beach Parking Lot
+0189 Granville Island,0143 Charleson Park,0189 Granville Island → 0143 Charleson Park,219,1.2242876712328765,12.799847792998479,24,Granville Island,Charleson Park
+0232 Britannia Parking Lot,0221 Glen & Union,0232 Britannia Parking Lot → 0221 Glen & Union,218,0.9562155963302752,7.4683486238532115,29,Britannia Parking Lot,Glen & Union
+0001 10th & Cambie,0176 10th & Ontario,0001 10th & Cambie → 0176 10th & Ontario,218,0.7479036697247706,4.11651376146789,57,10th & Cambie,10th & Ontario
+0048 Comox & Broughton,0032 Comox & Denman,0048 Comox & Broughton → 0032 Comox & Denman,217,0.6609262672811059,3.4576036866359443,45,Comox & Broughton,Comox & Denman
+0057 Marinaside & Cooperage,0011 Ontario & Seawall,0057 Marinaside & Cooperage → 0011 Ontario & Seawall,216,1.9556064814814815,11.0579475308642,23,Marinaside & Cooperage,Ontario & Seawall
+0044 Pacific & Richards,0129 Richards & Robson,0044 Pacific & Richards → 0129 Richards & Robson,216,1.098611111111111,7.43287037037037,34,Pacific & Richards,Richards & Robson
+2252 Wesbrook Village - Berton & Shrum,2116 Orchard Commons,2252 Wesbrook Village - Berton & Shrum → 2116 Orchard Commons,216,1.9297175925925927,15.66358024691358,161,Wesbrook Village - Berton & Shrum,Orchard Commons
+0083 Aquatic Centre,0103 Stanley Park - Third Beach Parking Lot,0083 Aquatic Centre → 0103 Stanley Park - Third Beach Parking Lot,215,4.930632558139535,38.268217054263566,35,Aquatic Centre,Stanley Park - Third Beach Parking Lot
+0209 Stanley Park - Information Booth,0093 Chilco & Robson,0209 Stanley Park - Information Booth → 0093 Chilco & Robson,215,7.451888372093023,61.418527131782945,93,Stanley Park - Information Booth,Chilco & Robson
+0041 Cardero & Robson,0217 Smithe & Burrard,0041 Cardero & Robson → 0217 Smithe & Burrard,214,1.1586666822429905,6.341277258566978,110,Cardero & Robson,Smithe & Burrard
+0050 Bute & Comox,0040 Cardero & Davie,0050 Bute & Comox → 0040 Cardero & Davie,212,0.8623239150943396,4.195283018867924,50,Bute & Comox,Cardero & Davie
+0083 Aquatic Centre,0104 Stanley Park - Second Beach South,0083 Aquatic Centre → 0104 Stanley Park - Second Beach South,212,5.090353773584906,40.14103773584905,53,Aquatic Centre,Stanley Park - Second Beach South
+2114 West Mall Swing Space Building,2116 Orchard Commons,2114 West Mall Swing Space Building → 2116 Orchard Commons,211,0.7355402843601896,6.092417061611374,156,West Mall Swing Space Building,Orchard Commons
+0101 Stanley Park - Vancouver Aquarium,0181 Denman & Bayshore,0101 Stanley Park - Vancouver Aquarium → 0181 Denman & Bayshore,211,5.740066350710901,49.44549763033175,60,Stanley Park - Vancouver Aquarium,Denman & Bayshore
+0122 Haro & Denman,0217 Smithe & Burrard,0122 Haro & Denman → 0217 Smithe & Burrard,211,1.3079146919431281,8.199289099526066,109,Haro & Denman,Smithe & Burrard
+0122 Haro & Denman,0092 Chilco & Barclay,0122 Haro & Denman → 0092 Chilco & Barclay,210,0.8822666666666668,6.712857142857143,13,Haro & Denman,Chilco & Barclay
+0300 Bute & Barclay,0088 Harwood & Bute,0300 Bute & Barclay → 0088 Harwood & Bute,209,0.8241818181818181,6.503349282296651,62,Bute & Barclay,Harwood & Bute
+0005 Dunsmuir & Beatty,0212 Union & Dunlevy,0005 Dunsmuir & Beatty → 0212 Union & Dunlevy,209,1.2470813397129186,6.545135566188198,25,Dunsmuir & Beatty,Union & Dunlevy
+0189 Granville Island,0010 Stamps Landing,0189 Granville Island → 0010 Stamps Landing,208,2.071471153846154,12.547916666666667,42,Granville Island,Stamps Landing
+0073 Ontario & 5th,0006 Olympic Village Station,0073 Ontario & 5th → 0006 Olympic Village Station,207,0.9881449275362318,6.412479871175524,3,Ontario & 5th,Olympic Village Station
+0186 10th & Kingsway,0001 10th & Cambie,0186 10th & Kingsway → 0001 10th & Cambie,207,1.2636231884057971,7.184138486312399,27,10th & Kingsway,10th & Cambie
+0011 Ontario & Seawall,0057 Marinaside & Cooperage,0011 Ontario & Seawall → 0057 Marinaside & Cooperage,204,1.87921568627451,13.100081699346404,23,Ontario & Seawall,Marinaside & Cooperage
+0028 Davie & Beach,0045 Beach & Hornby,0028 Davie & Beach → 0045 Beach & Hornby,204,2.4701470588235295,16.210049019607844,36,Davie & Beach,Beach & Hornby
+0143 Charleson Park,0011 Ontario & Seawall,0143 Charleson Park → 0011 Ontario & Seawall,204,2.5723676470588237,21.891666666666666,15,Charleson Park,Ontario & Seawall
+0011 Ontario & Seawall,0066 Anderson & 2nd,0011 Ontario & Seawall → 0066 Anderson & 2nd,204,3.42321568627451,25.773611111111112,29,Ontario & Seawall,Anderson & 2nd
+0010 Stamps Landing,0189 Granville Island,0010 Stamps Landing → 0189 Granville Island,203,2.028394088669951,12.392857142857142,21,Stamps Landing,Granville Island
+0196 Hornby & Drake,0019 Robson & Hornby,0196 Hornby & Drake → 0019 Robson & Hornby,203,1.0705270935960591,14.667816091954023,36,Hornby & Drake,Robson & Hornby
+2131 Brock Commons,2114 West Mall Swing Space Building,2131 Brock Commons → 2114 West Mall Swing Space Building,203,1.5501330049261084,14.39014778325123,113,Brock Commons,West Mall Swing Space Building
+0187 Bute & Davie,0002 Burrard Station (Melville & Dunsmuir),0187 Bute & Davie → 0002 Burrard Station (Melville & Dunsmuir),203,1.4115320197044334,8.644417077175698,72,Bute & Davie,Burrard Station (Melville & Dunsmuir)
+0014 Canada Place,0209 Stanley Park - Information Booth,0014 Canada Place → 0209 Stanley Park - Information Booth,202,3.719108910891089,24.010643564356435,48,Canada Place,Stanley Park - Information Booth
+2136 Agronomy & East Mall,2252 Wesbrook Village - Berton & Shrum,2136 Agronomy & East Mall → 2252 Wesbrook Village - Berton & Shrum,201,1.4905124378109453,7.5,70,Agronomy & East Mall,Wesbrook Village - Berton & Shrum
+0088 Harwood & Bute,0012 Dunsmuir & Richards,0088 Harwood & Bute → 0012 Dunsmuir & Richards,201,2.2916368159203984,26.54759535655058,29,Harwood & Bute,Dunsmuir & Richards
+0310 Jervis & Robson,0217 Smithe & Burrard,0310 Jervis & Robson → 0217 Smithe & Burrard,200,0.75396,8.641,47,Jervis & Robson,Smithe & Burrard
+0189 Granville Island,0006 Olympic Village Station,0189 Granville Island → 0006 Olympic Village Station,200,2.6347000000000005,15.037249999999998,38,Granville Island,Olympic Village Station
+0053 Keefer & Abbott,0212 Union & Dunlevy,0053 Keefer & Abbott → 0212 Union & Dunlevy,200,1.23646835,9.235833333333334,37,Keefer & Abbott,Union & Dunlevy
+0191 7th & Laurel,0189 Granville Island,0191 7th & Laurel → 0189 Granville Island,200,1.608795,10.539083333333332,52,7th & Laurel,Granville Island
+2116 Orchard Commons,2154 Strangway Building,2116 Orchard Commons → 2154 Strangway Building,198,1.3309040404040404,9.700168350168349,124,Orchard Commons,Strangway Building
+0181 Denman & Bayshore,0031 Morton & Denman,0181 Denman & Bayshore → 0031 Morton & Denman,197,9.383340101522842,68.56971235194585,55,Denman & Bayshore,Morton & Denman
+0470 Balsam & Cornwall,0400 Jericho Beach,0470 Balsam & Cornwall → 0400 Jericho Beach,197,2.883182741116751,18.04001692047377,45,Balsam & Cornwall,Jericho Beach
+0193 Science World,0174 1st & Manitoba,0193 Science World → 0174 1st & Manitoba,196,0.7832142857142856,10.287159863945577,32,Science World,1st & Manitoba
+0201 Rogers Tower,0181 Denman & Bayshore,0201 Rogers Tower → 0181 Denman & Bayshore,196,5.527688775510204,40.58418367346939,56,Rogers Tower,Denman & Bayshore
+0104 Stanley Park - Second Beach South,0031 Morton & Denman,0104 Stanley Park - Second Beach South → 0031 Morton & Denman,194,4.805876288659794,33.125,62,Stanley Park - Second Beach South,Morton & Denman
+0200 Cardero & Bayshore,0181 Denman & Bayshore,0200 Cardero & Bayshore → 0181 Denman & Bayshore,194,6.237061855670103,48.07920962199313,30,Cardero & Bayshore,Denman & Bayshore
+0193 Science World,0173 Columbia & 1st,0193 Science World → 0173 Columbia & 1st,194,1.168340206185567,8.999484536082475,17,Science World,Columbia & 1st
+0129 Richards & Robson,0196 Hornby & Drake,0129 Richards & Robson → 0196 Hornby & Drake,194,1.6126907216494846,9.95,40,Richards & Robson,Hornby & Drake
+0143 Charleson Park,0189 Granville Island,0143 Charleson Park → 0189 Granville Island,193,1.202637305699482,10.574956822107081,26,Charleson Park,Granville Island
+0187 Bute & Davie,0040 Cardero & Davie,0187 Bute & Davie → 0040 Cardero & Davie,193,0.7896580310880829,5.185578583765112,48,Bute & Davie,Cardero & Davie
+0187 Bute & Davie,0024 Hornby & Pender,0187 Bute & Davie → 0024 Hornby & Pender,193,1.866119170984456,10.431433506044906,94,Bute & Davie,Hornby & Pender
+2131 Brock Commons,2252 Wesbrook Village - Berton & Shrum,2131 Brock Commons → 2252 Wesbrook Village - Berton & Shrum,193,2.9030673575129535,19.5,94,Brock Commons,Wesbrook Village - Berton & Shrum
+0012 Dunsmuir & Richards,0005 Dunsmuir & Beatty,0012 Dunsmuir & Richards → 0005 Dunsmuir & Beatty,193,0.7228497409326424,5.948359240069085,32,Dunsmuir & Richards,Dunsmuir & Beatty
+0198 5th & Main,0171 Yukon & 6th,0198 5th & Main → 0171 Yukon & 6th,192,1.0018229166666666,11.002517361111112,29,5th & Main,Yukon & 6th
+0001 10th & Cambie,0186 10th & Kingsway,0001 10th & Cambie → 0186 10th & Kingsway,192,1.304078125,13.794618055555555,39,10th & Cambie,10th & Kingsway
+0230 Alexander & Railway,0052 Cambie & Water,0230 Alexander & Railway → 0052 Cambie & Water,192,1.5013697916666666,15.717795138888889,14,Alexander & Railway,Cambie & Water
+0028 Davie & Beach,0209 Stanley Park - Information Booth,0028 Davie & Beach → 0209 Stanley Park - Information Booth,192,4.308208333333334,32.81796875,49,Davie & Beach,Stanley Park - Information Booth
+0057 Marinaside & Cooperage,0045 Beach & Hornby,0057 Marinaside & Cooperage → 0045 Beach & Hornby,192,2.3861093749999998,13.194357638888889,22,Marinaside & Cooperage,Beach & Hornby
+Stanley Park - Information Booth,Stanley Park - Second Beach South,Stanley Park - Information Booth → Stanley Park - Second Beach South,191,7.861858638743455,59.13333333333333,102,Stanley Park - Information Booth,Stanley Park - Second Beach South
+0017 Marinaside & Davie,0148 Creekside Park North,0017 Marinaside & Davie → 0148 Creekside Park North,191,1.5999633507853404,15.61474694589878,29,Marinaside & Davie,Creekside Park North
+0154 Kitsilano Beach Park,0155 McNicoll & Arbutus,0154 Kitsilano Beach Park → 0155 McNicoll & Arbutus,190,1.6865578947368423,20.79464912280702,33,Kitsilano Beach Park,McNicoll & Arbutus
+0050 Bute & Comox,0217 Smithe & Burrard,0050 Bute & Comox → 0217 Smithe & Burrard,190,0.8846842105263159,5.826052631578948,24,Bute & Comox,Smithe & Burrard
+0400 Jericho Beach,0470 Balsam & Cornwall,0400 Jericho Beach → 0470 Balsam & Cornwall,190,2.5927368421052632,27.110877192982457,56,Jericho Beach,Balsam & Cornwall
+0126 Thurlow & Pendrell,0040 Cardero & Davie,0126 Thurlow & Pendrell → 0040 Cardero & Davie,190,0.8889105263157895,7.65780701754386,38,Thurlow & Pendrell,Cardero & Davie
+0057 Marinaside & Cooperage,0193 Science World,0057 Marinaside & Cooperage → 0193 Science World,188,1.6045265957446808,9.318882978723405,19,Marinaside & Cooperage,Science World
+0028 Davie & Beach,0084 Beach & Broughton,0028 Davie & Beach → 0084 Beach & Broughton,188,1.7181117021276595,11.236081560283687,47,Davie & Beach,Beach & Broughton
+0010 Stamps Landing,0011 Ontario & Seawall,0010 Stamps Landing → 0011 Ontario & Seawall,187,1.452812834224599,12.678877005347593,25,Stamps Landing,Ontario & Seawall
+0187 Bute & Davie,0083 Aquatic Centre,0187 Bute & Davie → 0083 Aquatic Centre,187,1.0779197860962566,21.78083778966132,18,Bute & Davie,Aquatic Centre
+0008 8th & Ash,0166 Alder & 11th,0008 8th & Ash → 0166 Alder & 11th,185,1.317954972972973,6.67927927927928,50,8th & Ash,Alder & 11th
+0017 Marinaside & Davie,0028 Davie & Beach,0017 Marinaside & Davie → 0028 Davie & Beach,185,3.740524324324324,24.315945945945945,26,Marinaside & Davie,Davie & Beach
+0177 Quebec & 1st,0017 Marinaside & Davie,0177 Quebec & 1st → 0017 Marinaside & Davie,185,2.1476108108108107,9.313153153153154,13,Quebec & 1st,Marinaside & Davie
+0193 Science World,0057 Marinaside & Cooperage,0193 Science World → 0057 Marinaside & Cooperage,185,1.8849297297297296,11.501981981981983,21,Science World,Marinaside & Cooperage
+Stanley Park - Information Booth,Denman & Bayshore,Stanley Park - Information Booth → Denman & Bayshore,184,8.807483695652174,70.10144927536231,108,Stanley Park - Information Booth,Denman & Bayshore
+0212 Union & Dunlevy,0005 Dunsmuir & Beatty,0212 Union & Dunlevy → 0005 Dunsmuir & Beatty,184,1.1970597826086955,6.304528985507246,14,Union & Dunlevy,Dunsmuir & Beatty
+0171 Yukon & 6th,0174 1st & Manitoba,0171 Yukon & 6th → 0174 1st & Manitoba,184,0.9539130434782609,6.159420289855072,47,Yukon & 6th,1st & Manitoba
+0005 Dunsmuir & Beatty,0012 Dunsmuir & Richards,0005 Dunsmuir & Beatty → 0012 Dunsmuir & Richards,184,0.5419239130434782,4.446014492753623,37,Dunsmuir & Beatty,Dunsmuir & Richards
+0045 Beach & Hornby,0084 Beach & Broughton,0045 Beach & Hornby → 0084 Beach & Broughton,184,1.4438804347826086,29.63143115942029,14,Beach & Hornby,Beach & Broughton
+0174 1st & Manitoba,0144 Wylie & 2nd,0174 1st & Manitoba → 0144 Wylie & 2nd,184,0.8504239130434783,4.352717391304347,76,1st & Manitoba,Wylie & 2nd
+0112 10th & Oak,0001 10th & Cambie,0112 10th & Oak → 0001 10th & Cambie,184,0.9130217391304348,6.0063405797101455,106,10th & Oak,10th & Cambie
+0217 Smithe & Burrard,0310 Jervis & Robson,0217 Smithe & Burrard → 0310 Jervis & Robson,184,0.6359891304347827,4.708423913043478,68,Smithe & Burrard,Jervis & Robson
+0244 10th & Commercial,0246 Glen & Broadway,0244 10th & Commercial → 0246 Glen & Broadway,182,0.928901098901099,7.888827838827838,50,10th & Commercial,Glen & Broadway
+0209 Stanley Park - Information Booth,0200 Cardero & Bayshore,0209 Stanley Park - Information Booth → 0200 Cardero & Bayshore,182,7.345824175824176,57.00256410256411,73,Stanley Park - Information Booth,Cardero & Bayshore
+0193 Science World,0010 Stamps Landing,0193 Science World → 0010 Stamps Landing,181,1.6687513812154695,13.1890423572744,18,Science World,Stamps Landing
+0209 Stanley Park - Information Booth,0201 Rogers Tower,0209 Stanley Park - Information Booth → 0201 Rogers Tower,181,8.32917679558011,72.14650092081031,93,Stanley Park - Information Booth,Rogers Tower
+0305 Georgia & Homer,0082 Richards & Davie,0305 Georgia & Homer → 0082 Richards & Davie,180,0.9639944444444445,5.756851851851852,49,Georgia & Homer,Richards & Davie
+0053 Keefer & Abbott,0055 Keefer & Columbia,0053 Keefer & Abbott → 0055 Keefer & Columbia,180,0.6332777777777777,4.691666666666666,12,Keefer & Abbott,Keefer & Columbia
+0201 Rogers Tower,0105 Stanley Park - Totem Poles,0201 Rogers Tower → 0105 Stanley Park - Totem Poles,180,4.030088888888889,28.32138888888889,38,Rogers Tower,Stanley Park - Totem Poles
+0209 Stanley Park - Information Booth,0047 Chilco & Beach,0209 Stanley Park - Information Booth → 0047 Chilco & Beach,180,8.752866666666668,64.12944444444445,79,Stanley Park - Information Booth,Chilco & Beach
+Stanley Park - Third Beach Parking Lot,Davie & Beach,Stanley Park - Third Beach Parking Lot → Davie & Beach,180,2.8501333333333334,15.578055555555556,43,Stanley Park - Third Beach Parking Lot,Davie & Beach
+2134 UBC Bookstore,2114 West Mall Swing Space Building,2134 UBC Bookstore → 2114 West Mall Swing Space Building,180,1.3205555555555555,10.795462962962963,108,UBC Bookstore,West Mall Swing Space Building
+0218 Carrall & Seawall,0193 Science World,0218 Carrall & Seawall → 0193 Science World,179,1.1866648044692738,18.011638733705773,14,Carrall & Seawall,Science World
+2252 Wesbrook Village - Berton & Shrum,2154 Strangway Building,2252 Wesbrook Village - Berton & Shrum → 2154 Strangway Building,179,1.9560502793296088,13.535754189944134,69,Wesbrook Village - Berton & Shrum,Strangway Building
+0189 Granville Island,0174 1st & Manitoba,0189 Granville Island → 0174 1st & Manitoba,179,3.105687150837989,17.74143389199255,73,Granville Island,1st & Manitoba
+0524 King Edward & Cambie,0511 Heather & 18th,0524 King Edward & Cambie → 0511 Heather & 18th,179,0.9669497206703911,9.366387337057729,116,King Edward & Cambie,Heather & 18th
+0148 Creekside Park North,0057 Marinaside & Cooperage,0148 Creekside Park North → 0057 Marinaside & Cooperage,179,1.4709497206703912,15.561173184357543,12,Creekside Park North,Marinaside & Cooperage
+0200 Cardero & Bayshore,0014 Canada Place,0200 Cardero & Bayshore → 0014 Canada Place,178,4.418078651685393,39.183239700374536,40,Cardero & Bayshore,Canada Place
+0246 Glen & Broadway,0244 10th & Commercial,0246 Glen & Broadway → 0244 10th & Commercial,178,0.9327471910112359,4.538202247191011,38,Glen & Broadway,10th & Commercial
+0218 Carrall & Seawall,0174 1st & Manitoba,0218 Carrall & Seawall → 0174 1st & Manitoba,178,1.27888202247191,6.919288389513108,15,Carrall & Seawall,1st & Manitoba
+2252 Wesbrook Village - Berton & Shrum,2132 IK Barber Learning Centre,2252 Wesbrook Village - Berton & Shrum → 2132 IK Barber Learning Centre,177,2.2793841807909607,10.004143126177025,137,Wesbrook Village - Berton & Shrum,IK Barber Learning Centre
+0006 Olympic Village Station,0066 Anderson & 2nd,0006 Olympic Village Station → 0066 Anderson & 2nd,176,2.177056818181818,19.268939393939394,45,Olympic Village Station,Anderson & 2nd
+0196 Hornby & Drake,0129 Richards & Robson,0196 Hornby & Drake → 0129 Richards & Robson,176,1.436778409090909,9.828787878787878,39,Hornby & Drake,Richards & Robson
+Stanley Park - Information Booth,Davie & Beach,Stanley Park - Information Booth → Davie & Beach,176,9.124835227272728,65.8279356060606,114,Stanley Park - Information Booth,Davie & Beach
+2252 Wesbrook Village - Berton & Shrum,2131 Brock Commons,2252 Wesbrook Village - Berton & Shrum → 2131 Brock Commons,176,2.7236420454545454,21.660227272727273,96,Wesbrook Village - Berton & Shrum,Brock Commons
+0084 Beach & Broughton,0045 Beach & Hornby,0084 Beach & Broughton → 0045 Beach & Hornby,176,1.1655795454545455,6.705776515151515,10,Beach & Broughton,Beach & Hornby
+0217 Smithe & Burrard,0187 Bute & Davie,0217 Smithe & Burrard → 0187 Bute & Davie,175,1.0316171428571428,6.022571428571429,108,Smithe & Burrard,Bute & Davie
+2154 Strangway Building,2252 Wesbrook Village - Berton & Shrum,2154 Strangway Building → 2252 Wesbrook Village - Berton & Shrum,175,1.9048114285714284,20.14352380952381,75,Strangway Building,Wesbrook Village - Berton & Shrum
+0352 Commercial & 20th,0244 10th & Commercial,0352 Commercial & 20th → 0244 10th & Commercial,175,1.1895028571428572,6.163142857142857,44,Commercial & 20th,10th & Commercial
+0186 10th & Kingsway,0266 St Catherines & 7th,0186 10th & Kingsway → 0266 St Catherines & 7th,174,1.2744252873563218,8.133716475095785,10,10th & Kingsway,St Catherines & 7th
+0004 Yaletown-Roundhouse Station,0177 Quebec & 1st,0004 Yaletown-Roundhouse Station → 0177 Quebec & 1st,174,2.399214540229885,9.906513409961686,9,Yaletown-Roundhouse Station,Quebec & 1st
+0057 Marinaside & Cooperage,0148 Creekside Park North,0057 Marinaside & Cooperage → 0148 Creekside Park North,174,1.4723735632183907,13.512643678160918,13,Marinaside & Cooperage,Creekside Park North
+0166 Alder & 11th,0070 10th & Granville,0166 Alder & 11th → 0070 10th & Granville,173,0.7447341040462427,4.284296724470135,48,Alder & 11th,10th & Granville
+0101 Stanley Park - Vancouver Aquarium,0014 Canada Place,0101 Stanley Park - Vancouver Aquarium → 0014 Canada Place,173,6.211341040462427,62.621868978805395,58,Stanley Park - Vancouver Aquarium,Canada Place
+0187 Bute & Davie,0041 Cardero & Robson,0187 Bute & Davie → 0041 Cardero & Robson,173,1.2612543352601155,6.78776493256262,80,Bute & Davie,Cardero & Robson
+0040 Cardero & Davie,0217 Smithe & Burrard,0040 Cardero & Davie → 0217 Smithe & Burrard,173,1.5970057803468207,14.19913294797688,87,Cardero & Davie,Smithe & Burrard
+2114 West Mall Swing Space Building,2134 UBC Bookstore,2114 West Mall Swing Space Building → 2134 UBC Bookstore,172,1.0722674418604652,11.603003875968993,112,West Mall Swing Space Building,UBC Bookstore
+0001 10th & Cambie,0134 14th & Main,0001 10th & Cambie → 0134 14th & Main,171,1.4455029239766082,7.35,50,10th & Cambie,14th & Main
+0017 Marinaside & Davie,0045 Beach & Hornby,0017 Marinaside & Davie → 0045 Beach & Hornby,171,2.326690058479532,16.7229044834308,18,Marinaside & Davie,Beach & Hornby
+0193 Science World,0009 Spyglass & Seawall,0193 Science World → 0009 Spyglass & Seawall,171,1.5177426900584794,17.771637426900583,11,Science World,Spyglass & Seawall
+0102 Stanley Park - Second Beach North,0045 Beach & Hornby,0102 Stanley Park - Second Beach North → 0045 Beach & Hornby,171,4.297122807017544,38.64922027290448,30,Stanley Park - Second Beach North,Beach & Hornby
+0012 Dunsmuir & Richards,0044 Pacific & Richards,0012 Dunsmuir & Richards → 0044 Pacific & Richards,170,1.5194882352941175,8.419607843137255,30,Dunsmuir & Richards,Pacific & Richards
+0174 1st & Manitoba,0189 Granville Island,0174 1st & Manitoba → 0189 Granville Island,170,3.169729411764706,18.514901960784314,74,1st & Manitoba,Granville Island
+0028 Davie & Beach,0105 Stanley Park - Totem Poles,0028 Davie & Beach → 0105 Stanley Park - Totem Poles,170,4.758023529411765,31.069313725490197,40,Davie & Beach,Stanley Park - Totem Poles
+0200 Cardero & Bayshore,0209 Stanley Park - Information Booth,0200 Cardero & Bayshore → 0209 Stanley Park - Information Booth,169,2.805603550295858,25.68777120315582,25,Cardero & Bayshore,Stanley Park - Information Booth
+0196 Hornby & Drake,0012 Dunsmuir & Richards,0196 Hornby & Drake → 0012 Dunsmuir & Richards,168,1.731142857142857,12.287797619047618,29,Hornby & Drake,Dunsmuir & Richards
+0079 Nelson & Richards,0024 Hornby & Pender,0079 Nelson & Richards → 0024 Hornby & Pender,168,1.4447738095238094,7.605654761904762,19,Nelson & Richards,Hornby & Pender
+2252 Wesbrook Village - Berton & Shrum,2143 War Memorial Gym,2252 Wesbrook Village - Berton & Shrum → 2143 War Memorial Gym,167,2.3985928143712574,23.461377245508984,101,Wesbrook Village - Berton & Shrum,War Memorial Gym
+0134 14th & Main,0001 10th & Cambie,0134 14th & Main → 0001 10th & Cambie,167,1.4239820359281437,11.477345309381239,44,14th & Main,10th & Cambie
+2117 Totem Park,2132 IK Barber Learning Centre,2117 Totem Park → 2132 IK Barber Learning Centre,166,1.626759036144578,9.61546184738956,73,Totem Park,IK Barber Learning Centre
+0005 Dunsmuir & Beatty,0002 Burrard Station (Melville & Dunsmuir),0005 Dunsmuir & Beatty → 0002 Burrard Station (Melville & Dunsmuir),166,1.2497289156626508,8.356526104417672,41,Dunsmuir & Beatty,Burrard Station (Melville & Dunsmuir)
+0103 Stanley Park - Third Beach Parking Lot,0084 Beach & Broughton,0103 Stanley Park - Third Beach Parking Lot → 0084 Beach & Broughton,166,3.859602409638554,28.49578313253012,20,Stanley Park - Third Beach Parking Lot,Beach & Broughton
+0104 Stanley Park - Second Beach South,0181 Denman & Bayshore,0104 Stanley Park - Second Beach South → 0181 Denman & Bayshore,166,4.258271084337349,35.36616465863454,42,Stanley Park - Second Beach South,Denman & Bayshore
+0040 Cardero & Davie,0035 Hastings & Broughton,0040 Cardero & Davie → 0035 Hastings & Broughton,165,1.1571212121212122,5.936767676767677,18,Cardero & Davie,Hastings & Broughton
+0032 Comox & Denman,0024 Hornby & Pender,0032 Comox & Denman → 0024 Hornby & Pender,165,2.2778666666666667,12.254040404040405,9,Comox & Denman,Hornby & Pender
+0103 Stanley Park - Third Beach Parking Lot,0105 Stanley Park - Totem Poles,0103 Stanley Park - Third Beach Parking Lot → 0105 Stanley Park - Totem Poles,165,4.900496969696969,35.285050505050506,37,Stanley Park - Third Beach Parking Lot,Stanley Park - Totem Poles
+0055 Keefer & Columbia,0053 Keefer & Abbott,0055 Keefer & Columbia → 0053 Keefer & Abbott,165,0.5520242424242424,3.667878787878788,15,Keefer & Columbia,Keefer & Abbott
+0122 Haro & Denman,0014 Canada Place,0122 Haro & Denman → 0014 Canada Place,165,2.551369696969697,14.39232323232323,9,Haro & Denman,Canada Place
+0310 Jervis & Robson,0313 Nelson & Denman,0310 Jervis & Robson → 0313 Nelson & Denman,164,0.9609451219512195,7.2473577235772355,63,Jervis & Robson,Nelson & Denman
+0006 Olympic Village Station,0143 Charleson Park,0006 Olympic Village Station → 0143 Charleson Park,164,1.2862621951219513,6.502845528455285,17,Olympic Village Station,Charleson Park
+0196 Hornby & Drake,0058 Richards & Smithe,0196 Hornby & Drake → 0058 Richards & Smithe,164,1.2189939024390244,20.850609756097562,23,Hornby & Drake,Richards & Smithe
+2114 West Mall Swing Space Building,2131 Brock Commons,2114 West Mall Swing Space Building → 2131 Brock Commons,164,1.3206280487804878,10.650914634146341,81,West Mall Swing Space Building,Brock Commons
+0200 Cardero & Bayshore,0102 Stanley Park - Second Beach North,0200 Cardero & Bayshore → 0102 Stanley Park - Second Beach North,163,7.926067484662577,51.853578732106335,16,Cardero & Bayshore,Stanley Park - Second Beach North
+Stanley Park - Totem Poles,Stanley Park - Second Beach South,Stanley Park - Totem Poles → Stanley Park - Second Beach South,163,6.984705521472393,49.90777096114519,42,Stanley Park - Totem Poles,Stanley Park - Second Beach South
+0300 Bute & Barclay,0002 Burrard Station (Melville & Dunsmuir),0300 Bute & Barclay → 0002 Burrard Station (Melville & Dunsmuir),163,0.8760674846625768,11.224539877300613,22,Bute & Barclay,Burrard Station (Melville & Dunsmuir)
+0212 Union & Dunlevy,0054 Expo & Carrall,0212 Union & Dunlevy → 0054 Expo & Carrall,162,0.7570061728395062,4.970576131687243,11,Union & Dunlevy,Expo & Carrall
+0310 Jervis & Robson,0092 Chilco & Barclay,0310 Jervis & Robson → 0092 Chilco & Barclay,161,1.278751552795031,7.559109730848861,28,Jervis & Robson,Chilco & Barclay
+0166 Alder & 11th,0008 8th & Ash,0166 Alder & 11th → 0008 8th & Ash,161,1.3323105590062112,5.28064182194617,34,Alder & 11th,8th & Ash
+2252 Wesbrook Village - Berton & Shrum,2134 UBC Bookstore,2252 Wesbrook Village - Berton & Shrum → 2134 UBC Bookstore,161,2.108136645962733,32.76128364389234,82,Wesbrook Village - Berton & Shrum,UBC Bookstore
+0017 Marinaside & Davie,0177 Quebec & 1st,0017 Marinaside & Davie → 0177 Quebec & 1st,160,2.0654,18.6078125,22,Marinaside & Davie,Quebec & 1st
+0103 Stanley Park - Third Beach Parking Lot,0047 Chilco & Beach,0103 Stanley Park - Third Beach Parking Lot → 0047 Chilco & Beach,160,3.4052187500000004,37.852916666666665,45,Stanley Park - Third Beach Parking Lot,Chilco & Beach
+0102 Stanley Park - Second Beach North,0181 Denman & Bayshore,0102 Stanley Park - Second Beach North → 0181 Denman & Bayshore,160,3.76624375,35.14895833333333,37,Stanley Park - Second Beach North,Denman & Bayshore
+2252 Wesbrook Village - Berton & Shrum,2136 Agronomy & East Mall,2252 Wesbrook Village - Berton & Shrum → 2136 Agronomy & East Mall,160,1.41780625,8.012708333333332,49,Wesbrook Village - Berton & Shrum,Agronomy & East Mall
+0082 Richards & Davie,0005 Dunsmuir & Beatty,0082 Richards & Davie → 0005 Dunsmuir & Beatty,160,1.48305,8.621666666666666,40,Richards & Davie,Dunsmuir & Beatty
+0058 Richards & Smithe,0005 Dunsmuir & Beatty,0058 Richards & Smithe → 0005 Dunsmuir & Beatty,160,1.01840625,14.368124999999997,39,Richards & Smithe,Dunsmuir & Beatty
+0215 Princess & Union,0212 Union & Dunlevy,0215 Princess & Union → 0212 Union & Dunlevy,159,0.8948616352201259,11.8416142557652,42,Princess & Union,Union & Dunlevy
+0024 Hornby & Pender,0187 Bute & Davie,0024 Hornby & Pender → 0187 Bute & Davie,158,1.8595443037974684,10.273839662447257,105,Hornby & Pender,Bute & Davie
+0006 Olympic Village Station,0177 Quebec & 1st,0006 Olympic Village Station → 0177 Quebec & 1st,158,1.344886075949367,8.3,19,Olympic Village Station,Quebec & 1st
+0047 Chilco & Beach,0104 Stanley Park - Second Beach South,0047 Chilco & Beach → 0104 Stanley Park - Second Beach South,158,5.802905063291139,50.31867088607595,22,Chilco & Beach,Stanley Park - Second Beach South
+0012 Dunsmuir & Richards,0138 Richards & Helmcken,0012 Dunsmuir & Richards → 0138 Richards & Helmcken,158,1.1315696202531647,7.919409282700422,46,Dunsmuir & Richards,Richards & Helmcken
+0300 Bute & Barclay,0217 Smithe & Burrard,0300 Bute & Barclay → 0217 Smithe & Burrard,157,0.8859363057324842,5.356263269639065,50,Bute & Barclay,Smithe & Burrard
+0047 Chilco & Beach,0103 Stanley Park - Third Beach Parking Lot,0047 Chilco & Beach → 0103 Stanley Park - Third Beach Parking Lot,157,3.117675159235669,19.94352441613588,39,Chilco & Beach,Stanley Park - Third Beach Parking Lot
+0174 1st & Manitoba,0073 Ontario & 5th,0174 1st & Manitoba → 0073 Ontario & 5th,157,0.5910191082802548,3.5283439490445865,23,1st & Manitoba,Ontario & 5th
+0088 Harwood & Bute,0196 Hornby & Drake,0088 Harwood & Bute → 0196 Hornby & Drake,157,0.6478216560509554,5.284076433121019,33,Harwood & Bute,Hornby & Drake
+0193 Science World,0143 Charleson Park,0193 Science World → 0143 Charleson Park,157,2.6054777070063695,10.507218683651805,8,Science World,Charleson Park
+0137 Beach & Seymour,0129 Richards & Robson,0137 Beach & Seymour → 0129 Richards & Robson,157,1.2993375796178344,7.758386411889596,24,Beach & Seymour,Richards & Robson
+0105 Stanley Park - Totem Poles,0200 Cardero & Bayshore,0105 Stanley Park - Totem Poles → 0200 Cardero & Bayshore,156,6.176391025641026,51.471688034188034,41,Stanley Park - Totem Poles,Cardero & Bayshore
+0170 8th & Yukon,0174 1st & Manitoba,0170 8th & Yukon → 0174 1st & Manitoba,156,1.2300576923076922,8.546688034188033,19,8th & Yukon,1st & Manitoba
+0069 7th & Granville,0081 7th & Heather,0069 7th & Granville → 0081 7th & Heather,156,1.470173076923077,6.074679487179487,29,7th & Granville,7th & Heather
+0310 Jervis & Robson,0040 Cardero & Davie,0310 Jervis & Robson → 0040 Cardero & Davie,156,1.2516217948717947,13.443162393162392,21,Jervis & Robson,Cardero & Davie
+0087 Broughton & Davie,0217 Smithe & Burrard,0087 Broughton & Davie → 0217 Smithe & Burrard,156,1.2468782051282052,8.534081196581196,93,Broughton & Davie,Smithe & Burrard
+0179 11th & Kingsway,0001 10th & Cambie,0179 11th & Kingsway → 0001 10th & Cambie,156,1.340989294871795,5.930662393162393,116,11th & Kingsway,10th & Cambie
+0400 Jericho Beach,0410 Alma & Point Grey,0400 Jericho Beach → 0410 Alma & Point Grey,155,0.5710193548387097,24.83010752688172,21,Jericho Beach,Alma & Point Grey
+0104 Stanley Park - Second Beach South,0014 Canada Place,0104 Stanley Park - Second Beach South → 0014 Canada Place,155,5.162238709677419,55.41150537634408,45,Stanley Park - Second Beach South,Canada Place
+0103 Stanley Park - Third Beach Parking Lot,0045 Beach & Hornby,0103 Stanley Park - Third Beach Parking Lot → 0045 Beach & Hornby,155,4.474509677419355,26.056236559139784,39,Stanley Park - Third Beach Parking Lot,Beach & Hornby
+0006 Olympic Village Station,0191 7th & Laurel,0006 Olympic Village Station → 0191 7th & Laurel,154,0.7340151298701298,9.71331168831169,40,Olympic Village Station,7th & Laurel
+0193 Science World,0028 Davie & Beach,0193 Science World → 0028 Davie & Beach,154,5.360285714285714,29.564502164502166,24,Science World,Davie & Beach
+0193 Science World,0011 Ontario & Seawall,0193 Science World → 0011 Ontario & Seawall,154,1.6785519480519482,27.114935064935064,16,Science World,Ontario & Seawall
+0025 Homer & Robson (Vancouver Public Library),0138 Richards & Helmcken,0025 Homer & Robson (Vancouver Public Library) → 0138 Richards & Helmcken,154,0.749487012987013,7.370670995670995,3,Homer & Robson (Vancouver Public Library),Richards & Helmcken
+0212 Union & Dunlevy,0193 Science World,0212 Union & Dunlevy → 0193 Science World,154,1.0921883116883118,7.312121212121212,16,Union & Dunlevy,Science World
+0129 Richards & Robson,0005 Dunsmuir & Beatty,0129 Richards & Robson → 0005 Dunsmuir & Beatty,153,0.9179869281045752,5.868082788671025,47,Richards & Robson,Dunsmuir & Beatty
+0047 Chilco & Beach,0102 Stanley Park - Second Beach North,0047 Chilco & Beach → 0102 Stanley Park - Second Beach North,153,5.430830065359477,38.61470588235294,31,Chilco & Beach,Stanley Park - Second Beach North
+0310 Jervis & Robson,0041 Cardero & Robson,0310 Jervis & Robson → 0041 Cardero & Robson,152,1.0421513157894737,8.608991228070176,28,Jervis & Robson,Cardero & Robson
+0031 Morton & Denman,0104 Stanley Park - Second Beach South,0031 Morton & Denman → 0104 Stanley Park - Second Beach South,151,3.928728476821192,37.34746136865342,26,Morton & Denman,Stanley Park - Second Beach South
+0024 Hornby & Pender,0005 Dunsmuir & Beatty,0024 Hornby & Pender → 0005 Dunsmuir & Beatty,151,1.395708609271523,10.425717439293598,47,Hornby & Pender,Dunsmuir & Beatty
+2116 Orchard Commons,2131 Brock Commons,2116 Orchard Commons → 2131 Brock Commons,151,1.5176821192052978,14.929028697571743,101,Orchard Commons,Brock Commons
+0101 Stanley Park - Vancouver Aquarium,0028 Davie & Beach,0101 Stanley Park - Vancouver Aquarium → 0028 Davie & Beach,151,6.712980132450331,54.43995584988963,61,Stanley Park - Vancouver Aquarium,Davie & Beach
+0093 Chilco & Robson,0105 Stanley Park - Totem Poles,0093 Chilco & Robson → 0105 Stanley Park - Totem Poles,150,2.5298066666666665,19.414555555555555,32,Chilco & Robson,Stanley Park - Totem Poles
+0201 Rogers Tower,0209 Stanley Park - Information Booth,0201 Rogers Tower → 0209 Stanley Park - Information Booth,150,3.8307711333333336,29.31833333333333,40,Rogers Tower,Stanley Park - Information Booth
+0012 Dunsmuir & Richards,0212 Union & Dunlevy,0012 Dunsmuir & Richards → 0212 Union & Dunlevy,150,1.5910866666666668,8.299555555555555,22,Dunsmuir & Richards,Union & Dunlevy
+0009 Spyglass & Seawall,0193 Science World,0009 Spyglass & Seawall → 0193 Science World,150,1.43484,9.594666666666667,6,Spyglass & Seawall,Science World
+0045 Beach & Hornby,0104 Stanley Park - Second Beach South,0045 Beach & Hornby → 0104 Stanley Park - Second Beach South,149,4.0945369127516775,28.604250559284118,18,Beach & Hornby,Stanley Park - Second Beach South
+0143 Charleson Park,0193 Science World,0143 Charleson Park → 0193 Science World,149,2.690789731543624,13.688478747203579,10,Charleson Park,Science World
+0053 Keefer & Abbott,0230 Alexander & Railway,0053 Keefer & Abbott → 0230 Alexander & Railway,149,1.7589463087248325,9.901565995525727,19,Keefer & Abbott,Alexander & Railway
+0221 Glen & Union,0232 Britannia Parking Lot,0221 Glen & Union → 0232 Britannia Parking Lot,148,1.0093108108108109,6.47804054054054,29,Glen & Union,Britannia Parking Lot
+0071 14th & Granville,0112 10th & Oak,0071 14th & Granville → 0112 10th & Oak,148,1.4002972972972973,6.159572072072072,62,14th & Granville,10th & Oak
+0078 Nelson & Mainland,0006 Olympic Village Station,0078 Nelson & Mainland → 0006 Olympic Village Station,148,1.4201486486486485,6.844594594594595,18,Nelson & Mainland,Olympic Village Station
+0192 7th &  Alder,0081 7th & Heather,0192 7th &  Alder → 0081 7th & Heather,148,0.9183378378378377,4.034346846846847,16,7th &  Alder,7th & Heather
+0212 Union & Dunlevy,0222 Adanac & McLean,0212 Union & Dunlevy → 0222 Adanac & McLean,147,1.7823673469387753,18.369501133786848,24,Union & Dunlevy,Adanac & McLean
+0103 Stanley Park - Third Beach Parking Lot,0014 Canada Place,0103 Stanley Park - Third Beach Parking Lot → 0014 Canada Place,147,5.825714285714286,41.31689342403628,43,Stanley Park - Third Beach Parking Lot,Canada Place
+0044 Pacific & Richards,0082 Richards & Davie,0044 Pacific & Richards → 0082 Richards & Davie,147,1.2816530612244896,10.666666666666666,21,Pacific & Richards,Richards & Davie
+0031 Morton & Denman,0103 Stanley Park - Third Beach Parking Lot,0031 Morton & Denman → 0103 Stanley Park - Third Beach Parking Lot,147,4.709063469387756,33.368707482993194,43,Morton & Denman,Stanley Park - Third Beach Parking Lot
+0024 Hornby & Pender,0037 Hornby & Nelson,0024 Hornby & Pender → 0037 Hornby & Nelson,147,1.1260068027210883,8.193877551020408,58,Hornby & Pender,Hornby & Nelson
+0103 Stanley Park - Third Beach Parking Lot,0142 Beach & Cardero,0103 Stanley Park - Third Beach Parking Lot → 0142 Beach & Cardero,147,4.092013605442177,24.146938775510204,53,Stanley Park - Third Beach Parking Lot,Beach & Cardero
+0287 Carolina & Great Northern Way,0236 Keith & 6th,0287 Carolina & Great Northern Way → 0236 Keith & 6th,147,1.0020748299319728,5.314172335600907,14,Carolina & Great Northern Way,Keith & 6th
+0196 Hornby & Drake,0154 Kitsilano Beach Park,0196 Hornby & Drake → 0154 Kitsilano Beach Park,147,2.701537414965986,29.600907029478456,52,Hornby & Drake,Kitsilano Beach Park
+0105 Stanley Park - Totem Poles,0201 Rogers Tower,0105 Stanley Park - Totem Poles → 0201 Rogers Tower,147,7.509891156462585,55.89852607709751,56,Stanley Park - Totem Poles,Rogers Tower
+0045 Beach & Hornby,0102 Stanley Park - Second Beach North,0045 Beach & Hornby → 0102 Stanley Park - Second Beach North,147,4.732027210884353,30.807596371882084,23,Beach & Hornby,Stanley Park - Second Beach North
+0053 Keefer & Abbott,0177 Quebec & 1st,0053 Keefer & Abbott → 0177 Quebec & 1st,147,1.5264421768707483,9.234240362811791,27,Keefer & Abbott,Quebec & 1st
+0201 Rogers Tower,0200 Cardero & Bayshore,0201 Rogers Tower → 0200 Cardero & Bayshore,147,3.09943537414966,28.396145124716554,46,Rogers Tower,Cardero & Bayshore
+0450 Point Grey & Bayswater,0400 Jericho Beach,0450 Point Grey & Bayswater → 0400 Jericho Beach,147,1.8966054421768708,17.808163265306124,21,Point Grey & Bayswater,Jericho Beach
+0187 Bute & Davie,0122 Haro & Denman,0187 Bute & Davie → 0122 Haro & Denman,147,1.7061632653061225,8.710884353741497,23,Bute & Davie,Haro & Denman
+2132 IK Barber Learning Centre,2252 Wesbrook Village - Berton & Shrum,2132 IK Barber Learning Centre → 2252 Wesbrook Village - Berton & Shrum,146,2.620808219178082,14.3324200913242,93,IK Barber Learning Centre,Wesbrook Village - Berton & Shrum
+0174 1st & Manitoba,0008 8th & Ash,0174 1st & Manitoba → 0008 8th & Ash,146,1.3386986301369863,5.747146118721462,67,1st & Manitoba,8th & Ash
+0262 8th & Prince Edward,0001 10th & Cambie,0262 8th & Prince Edward → 0001 10th & Cambie,146,1.5112465753424658,10.336529680365295,14,8th & Prince Edward,10th & Cambie
+0032 Comox & Denman,0083 Aquatic Centre,0032 Comox & Denman → 0083 Aquatic Centre,146,1.5516232876712328,13.379680365296805,5,Comox & Denman,Aquatic Centre
+2154 Strangway Building,2114 West Mall Swing Space Building,2154 Strangway Building → 2114 West Mall Swing Space Building,146,1.1970342465753425,27.250456621004567,73,Strangway Building,West Mall Swing Space Building
+0045 Beach & Hornby,0103 Stanley Park - Third Beach Parking Lot,0045 Beach & Hornby → 0103 Stanley Park - Third Beach Parking Lot,145,5.436420689655172,31.310689655172414,25,Beach & Hornby,Stanley Park - Third Beach Parking Lot
+0193 Science World,0045 Beach & Hornby,0193 Science World → 0045 Beach & Hornby,145,3.4382827586206894,23.984597701149422,6,Science World,Beach & Hornby
+0011 Ontario & Seawall,0136 David Lam Park,0011 Ontario & Seawall → 0136 David Lam Park,145,2.906,16.16218390804598,19,Ontario & Seawall,David Lam Park
+0400 Jericho Beach,0450 Point Grey & Bayswater,0400 Jericho Beach → 0450 Point Grey & Bayswater,145,1.893889655172414,16.79252873563218,21,Jericho Beach,Point Grey & Bayswater
+0009 Spyglass & Seawall,0189 Granville Island,0009 Spyglass & Seawall → 0189 Granville Island,145,2.4207471034482757,26.69666666666667,11,Spyglass & Seawall,Granville Island
+0202 14th & Oak,0001 10th & Cambie,0202 14th & Oak → 0001 10th & Cambie,144,1.456101875,7.8224537037037045,57,14th & Oak,10th & Cambie
+0187 Bute & Davie,0099 šxʷƛ̓ənəq Xwtl'e7énḵ Square - Vancouver Art Gallery,0187 Bute & Davie → 0099 šxʷƛ̓ənəq Xwtl'e7énḵ Square - Vancouver Art Gallery,144,1.4172222222222224,7.0100694444444445,67,Bute & Davie,šxʷƛ̓ənəq Xwtl'e7énḵ Square - Vancouver Art Gallery
+0058 Richards & Smithe,0045 Beach & Hornby,0058 Richards & Smithe → 0045 Beach & Hornby,144,1.4629027777777779,8.791087962962964,16,Richards & Smithe,Beach & Hornby
+0122 Haro & Denman,0040 Cardero & Davie,0122 Haro & Denman → 0040 Cardero & Davie,144,0.9994652777777778,11.782060185185184,28,Haro & Denman,Cardero & Davie
+0037 Hornby & Nelson,0305 Georgia & Homer,0037 Hornby & Nelson → 0305 Georgia & Homer,144,1.1337986111111111,6.387731481481482,97,Hornby & Nelson,Georgia & Homer
+0102 Stanley Park - Second Beach North,0083 Aquatic Centre,0102 Stanley Park - Second Beach North → 0083 Aquatic Centre,143,3.649692307692307,20.54137529137529,42,Stanley Park - Second Beach North,Aquatic Centre
+2132 IK Barber Learning Centre,2117 Totem Park,2132 IK Barber Learning Centre → 2117 Totem Park,143,1.5306713286713287,8.607692307692309,73,IK Barber Learning Centre,Totem Park
+0177 Quebec & 1st,0004 Yaletown-Roundhouse Station,0177 Quebec & 1st → 0004 Yaletown-Roundhouse Station,143,2.444041958041958,13.382634032634034,8,Quebec & 1st,Yaletown-Roundhouse Station
+0040 Cardero & Davie,0122 Haro & Denman,0040 Cardero & Davie → 0122 Haro & Denman,143,0.8965384615384614,4.882517482517483,12,Cardero & Davie,Haro & Denman
+Stanley Park - Second Beach South,Stanley Park - Second Beach North,Stanley Park - Second Beach South → Stanley Park - Second Beach North,143,7.689916083916083,58.928554778554776,52,Stanley Park - Second Beach South,Stanley Park - Second Beach North
+0014 Canada Place,0104 Stanley Park - Second Beach South,0014 Canada Place → 0104 Stanley Park - Second Beach South,142,7.382661971830986,56.462793427230054,35,Canada Place,Stanley Park - Second Beach South
+0093 Chilco & Robson,0103 Stanley Park - Third Beach Parking Lot,0093 Chilco & Robson → 0103 Stanley Park - Third Beach Parking Lot,142,5.557725352112676,41.71584507042253,35,Chilco & Robson,Stanley Park - Third Beach Parking Lot
+0031 Morton & Denman,0102 Stanley Park - Second Beach North,0031 Morton & Denman → 0102 Stanley Park - Second Beach North,142,4.370774647887324,33.57441314553991,46,Morton & Denman,Stanley Park - Second Beach North
+0010 Stamps Landing,0193 Science World,0010 Stamps Landing → 0193 Science World,142,1.7178732394366196,7.920892018779343,8,Stamps Landing,Science World
+0011 Ontario & Seawall,0010 Stamps Landing,0011 Ontario & Seawall → 0010 Stamps Landing,142,1.563330985915493,8.587323943661973,15,Ontario & Seawall,Stamps Landing
+0126 Thurlow & Pendrell,0041 Cardero & Robson,0126 Thurlow & Pendrell → 0041 Cardero & Robson,142,1.5155352112676055,13.768192488262912,30,Thurlow & Pendrell,Cardero & Robson
+0011 Ontario & Seawall,0193 Science World,0011 Ontario & Seawall → 0193 Science World,142,1.4043239436619717,9.599178403755868,21,Ontario & Seawall,Science World
+0171 Yukon & 6th,0073 Ontario & 5th,0171 Yukon & 6th → 0073 Ontario & 5th,142,0.7093098591549295,3.850117370892019,11,Yukon & 6th,Ontario & 5th
+0204 York & Yew,0108 1st & Chestnut,0204 York & Yew → 0108 1st & Chestnut,141,0.8769148936170214,10.715721040189125,19,York & Yew,1st & Chestnut
+0193 Science World,0218 Carrall & Seawall,0193 Science World → 0218 Carrall & Seawall,141,1.6608156028368792,23.969148936170214,9,Science World,Carrall & Seawall
+0400 Jericho Beach,0460 Trafalgar & Cornwall,0400 Jericho Beach → 0460 Trafalgar & Cornwall,141,2.3434680851063834,21.522104018912525,32,Jericho Beach,Trafalgar & Cornwall
+0305 Georgia & Homer,0196 Hornby & Drake,0305 Georgia & Homer → 0196 Hornby & Drake,140,1.6138333571428571,9.710476190476191,19,Georgia & Homer,Hornby & Drake
+0254 Grandview & Commercial,0250 Woodland & 4th,0254 Grandview & Commercial → 0250 Woodland & 4th,140,0.5221285714285714,2.620595238095238,30,Grandview & Commercial,Woodland & 4th
+0222 Adanac & McLean,0212 Union & Dunlevy,0222 Adanac & McLean → 0212 Union & Dunlevy,140,1.7919357142857144,15.964880952380954,29,Adanac & McLean,Union & Dunlevy
+0181 Denman & Bayshore,0101 Stanley Park - Vancouver Aquarium,0181 Denman & Bayshore → 0101 Stanley Park - Vancouver Aquarium,140,3.7763214285714284,42.03797619047619,41,Denman & Bayshore,Stanley Park - Vancouver Aquarium
+2131 Brock Commons,2116 Orchard Commons,2131 Brock Commons → 2116 Orchard Commons,140,1.5741571428571428,10.357738095238094,98,Brock Commons,Orchard Commons
+0193 Science World,0084 Beach & Broughton,0193 Science World → 0084 Beach & Broughton,140,4.500192857142857,31.71559523809524,8,Science World,Beach & Broughton
+0040 Cardero & Davie,0045 Beach & Hornby,0040 Cardero & Davie → 0045 Beach & Hornby,140,1.6578785714285715,8.421309523809525,19,Cardero & Davie,Beach & Hornby
+0058 Richards & Smithe,0196 Hornby & Drake,0058 Richards & Smithe → 0196 Hornby & Drake,140,1.2450285714285714,8.018571428571429,17,Richards & Smithe,Hornby & Drake
+0310 Jervis & Robson,0058 Richards & Smithe,0310 Jervis & Robson → 0058 Richards & Smithe,140,1.26715,17.721190476190475,36,Jervis & Robson,Richards & Smithe
+0148 Creekside Park North,0004 Yaletown-Roundhouse Station,0148 Creekside Park North → 0004 Yaletown-Roundhouse Station,140,1.7845642857142856,14.24345238095238,7,Creekside Park North,Yaletown-Roundhouse Station
+0011 Ontario & Seawall,0006 Olympic Village Station,0011 Ontario & Seawall → 0006 Olympic Village Station,140,1.7407428571428571,13.197023809523811,15,Ontario & Seawall,Olympic Village Station
+2114 West Mall Swing Space Building,2132 IK Barber Learning Centre,2114 West Mall Swing Space Building → 2132 IK Barber Learning Centre,139,1.2287625899280576,13.222182254196644,98,West Mall Swing Space Building,IK Barber Learning Centre
+Stanley Park - Information Booth,Stanley Park - Vancouver Aquarium,Stanley Park - Information Booth → Stanley Park - Vancouver Aquarium,139,6.867568345323741,63.08513189448442,83,Stanley Park - Information Booth,Stanley Park - Vancouver Aquarium
+0104 Stanley Park - Second Beach South,0045 Beach & Hornby,0104 Stanley Park - Second Beach South → 0045 Beach & Hornby,139,4.050251798561151,24.50167865707434,22,Stanley Park - Second Beach South,Beach & Hornby
+0089 Burrard & Drake,0108 1st & Chestnut,0089 Burrard & Drake → 0108 1st & Chestnut,139,1.6165419424460432,6.669064748201439,44,Burrard & Drake,1st & Chestnut
+0065 Cypress & Cornwall,0082 Richards & Davie,0065 Cypress & Cornwall → 0082 Richards & Davie,139,2.2687553956834536,10.703597122302158,20,Cypress & Cornwall,Richards & Davie
+0143 Charleson Park,0009 Spyglass & Seawall,0143 Charleson Park → 0009 Spyglass & Seawall,138,1.4138043478260869,6.8743961352657,11,Charleson Park,Spyglass & Seawall
+0155 McNicoll & Arbutus,0189 Granville Island,0155 McNicoll & Arbutus → 0189 Granville Island,138,2.632427536231884,31.273913043478263,31,McNicoll & Arbutus,Granville Island
+0196 Hornby & Drake,0002 Burrard Station (Melville & Dunsmuir),0196 Hornby & Drake → 0002 Burrard Station (Melville & Dunsmuir),138,1.943840579710145,10.912318840579712,29,Hornby & Drake,Burrard Station (Melville & Dunsmuir)
+2252 Wesbrook Village - Berton & Shrum,2117 Totem Park,2252 Wesbrook Village - Berton & Shrum → 2117 Totem Park,138,2.0456159420289857,15.278140096618356,58,Wesbrook Village - Berton & Shrum,Totem Park
+0193 Science World,0066 Anderson & 2nd,0193 Science World → 0066 Anderson & 2nd,138,3.615297101449275,28.109782608695653,17,Science World,Anderson & 2nd
+0196 Hornby & Drake,0028 Davie & Beach,0196 Hornby & Drake → 0028 Davie & Beach,138,2.4489951449275362,21.153019323671497,26,Hornby & Drake,Davie & Beach
+0126 Thurlow & Pendrell,0032 Comox & Denman,0126 Thurlow & Pendrell → 0032 Comox & Denman,138,1.351463768115942,7.378140096618357,31,Thurlow & Pendrell,Comox & Denman
+0103 Stanley Park - Third Beach Parking Lot,0083 Aquatic Centre,0103 Stanley Park - Third Beach Parking Lot → 0083 Aquatic Centre,137,4.333591240875912,21.791484184914843,44,Stanley Park - Third Beach Parking Lot,Aquatic Centre
+0005 Dunsmuir & Beatty,0078 Nelson & Mainland,0005 Dunsmuir & Beatty → 0078 Nelson & Mainland,137,0.9805036496350366,8.000973236009733,24,Dunsmuir & Beatty,Nelson & Mainland
+0196 Hornby & Drake,0108 1st & Chestnut,0196 Hornby & Drake → 0108 1st & Chestnut,137,1.6946058394160584,7.279683698296838,66,Hornby & Drake,1st & Chestnut
+0102 Stanley Park - Second Beach North,0032 Comox & Denman,0102 Stanley Park - Second Beach North → 0032 Comox & Denman,137,2.008284671532847,11.71338199513382,20,Stanley Park - Second Beach North,Comox & Denman
+0300 Bute & Barclay,0092 Chilco & Barclay,0300 Bute & Barclay → 0092 Chilco & Barclay,137,1.475978102189781,11.234914841849148,24,Bute & Barclay,Chilco & Barclay
+0129 Richards & Robson,0138 Richards & Helmcken,0129 Richards & Robson → 0138 Richards & Helmcken,137,0.6015182481751825,4.44683698296837,18,Richards & Robson,Richards & Helmcken
+0045 Beach & Hornby,0037 Hornby & Nelson,0045 Beach & Hornby → 0037 Hornby & Nelson,136,1.3692573529411765,10.304901960784314,45,Beach & Hornby,Hornby & Nelson
+0105 Stanley Park - Totem Poles,0093 Chilco & Robson,0105 Stanley Park - Totem Poles → 0093 Chilco & Robson,136,6.8724485294117645,65.23725490196078,27,Stanley Park - Totem Poles,Chilco & Robson
+0148 Creekside Park North,0011 Ontario & Seawall,0148 Creekside Park North → 0011 Ontario & Seawall,136,1.2227573529411764,11.168627450980393,13,Creekside Park North,Ontario & Seawall
+0058 Richards & Smithe,0044 Pacific & Richards,0058 Richards & Smithe → 0044 Pacific & Richards,136,0.9235955882352941,6.330759803921569,19,Richards & Smithe,Pacific & Richards
+0189 Granville Island,0155 McNicoll & Arbutus,0189 Granville Island → 0155 McNicoll & Arbutus,136,2.982338235294118,19.86654411764706,22,Granville Island,McNicoll & Arbutus
+0136 David Lam Park,0028 Davie & Beach,0136 David Lam Park → 0028 Davie & Beach,135,3.7872518518518516,22.41753086419753,24,David Lam Park,Davie & Beach
+0053 Keefer & Abbott,0045 Beach & Hornby,0053 Keefer & Abbott → 0045 Beach & Hornby,135,3.552637037037037,26.49185185185185,13,Keefer & Abbott,Beach & Hornby
+0070 10th & Granville,0166 Alder & 11th,0070 10th & Granville → 0166 Alder & 11th,135,0.8833111111111112,6.8509876543209876,65,10th & Granville,Alder & 11th
+0066 Anderson & 2nd,0174 1st & Manitoba,0066 Anderson & 2nd → 0174 1st & Manitoba,135,3.0885037037037035,19.203086419753085,46,Anderson & 2nd,1st & Manitoba
+0218 Carrall & Seawall,0045 Beach & Hornby,0218 Carrall & Seawall → 0045 Beach & Hornby,135,3.202474074074074,30.030617283950615,8,Carrall & Seawall,Beach & Hornby
+0015 Granville & Georgia,0005 Dunsmuir & Beatty,0015 Granville & Georgia → 0005 Dunsmuir & Beatty,135,1.1358074074074074,8.474197530864197,37,Granville & Georgia,Dunsmuir & Beatty
+0300 Bute & Barclay,0041 Cardero & Robson,0300 Bute & Barclay → 0041 Cardero & Robson,135,1.5856518518518519,13.022222222222222,23,Bute & Barclay,Cardero & Robson
+0104 Stanley Park - Second Beach South,0218 Carrall & Seawall,0104 Stanley Park - Second Beach South → 0218 Carrall & Seawall,135,5.979627185185185,19.40567901234568,6,Stanley Park - Second Beach South,Carrall & Seawall
+0008 8th & Ash,0191 7th & Laurel,0008 8th & Ash → 0191 7th & Laurel,134,0.6150074626865671,3.683582089552239,22,8th & Ash,7th & Laurel
+0136 David Lam Park,0083 Aquatic Centre,0136 David Lam Park → 0083 Aquatic Centre,134,2.1577164179104478,14.109328358208955,20,David Lam Park,Aquatic Centre
+0122 Haro & Denman,0035 Hastings & Broughton,0122 Haro & Denman → 0035 Hastings & Broughton,134,1.127134328358209,13.326990049751243,14,Haro & Denman,Hastings & Broughton
+0034 Cordova & Bute,0105 Stanley Park - Totem Poles,0034 Cordova & Bute → 0105 Stanley Park - Totem Poles,134,3.975679104477612,28.913557213930346,21,Cordova & Bute,Stanley Park - Totem Poles
+0138 Richards & Helmcken,0305 Georgia & Homer,0138 Richards & Helmcken → 0305 Georgia & Homer,134,0.8338059701492537,5.9337064676616915,26,Richards & Helmcken,Georgia & Homer
+0089 Burrard & Drake,0129 Richards & Robson,0089 Burrard & Drake → 0129 Richards & Robson,134,1.4804029850746268,9.119402985074627,25,Burrard & Drake,Richards & Robson
+0045 Beach & Hornby,0017 Marinaside & Davie,0045 Beach & Hornby → 0017 Marinaside & Davie,134,2.2885,14.748880597014924,21,Beach & Hornby,Marinaside & Davie
+0174 1st & Manitoba,0171 Yukon & 6th,0174 1st & Manitoba → 0171 Yukon & 6th,134,0.9968955223880597,5.892786069651741,32,1st & Manitoba,Yukon & 6th
+0092 Chilco & Barclay,0122 Haro & Denman,0092 Chilco & Barclay → 0122 Haro & Denman,133,1.0580977443609023,9.380827067669173,16,Chilco & Barclay,Haro & Denman
+0130 Heather & 16th,0001 10th & Cambie,0130 Heather & 16th → 0001 10th & Cambie,133,1.0960375939849625,5.353884711779449,14,Heather & 16th,10th & Cambie
+0039 Helmcken & Burrard,0300 Bute & Barclay,0039 Helmcken & Burrard → 0300 Bute & Barclay,133,0.8307293233082708,10.266040100250626,40,Helmcken & Burrard,Bute & Barclay
+0006 Olympic Village Station,0073 Ontario & 5th,0006 Olympic Village Station → 0073 Ontario & 5th,133,0.9204887218045112,5.976817042606516,10,Olympic Village Station,Ontario & 5th
+0045 Beach & Hornby,0193 Science World,0045 Beach & Hornby → 0193 Science World,133,3.226781954887218,14.926315789473685,11,Beach & Hornby,Science World
+0050 Bute & Comox,0300 Bute & Barclay,0050 Bute & Comox → 0300 Bute & Barclay,133,0.5414135338345865,4.3765664160401005,27,Bute & Comox,Bute & Barclay
+0126 Thurlow & Pendrell,0002 Burrard Station (Melville & Dunsmuir),0126 Thurlow & Pendrell → 0002 Burrard Station (Melville & Dunsmuir),133,1.3114285714285714,6.966040100250627,80,Thurlow & Pendrell,Burrard Station (Melville & Dunsmuir)
+0218 Carrall & Seawall,0017 Marinaside & Davie,0218 Carrall & Seawall → 0017 Marinaside & Davie,133,1.553796992481203,14.477944862155388,24,Carrall & Seawall,Marinaside & Davie
+0196 Hornby & Drake,0025 Homer & Robson (Vancouver Public Library),0196 Hornby & Drake → 0025 Homer & Robson (Vancouver Public Library),133,1.6679097744360902,16.51127819548872,16,Hornby & Drake,Homer & Robson (Vancouver Public Library)
+0083 Aquatic Centre,0031 Morton & Denman,0083 Aquatic Centre → 0031 Morton & Denman,133,5.061172932330827,35.8640350877193,31,Aquatic Centre,Morton & Denman
+0005 Dunsmuir & Beatty,0037 Hornby & Nelson,0005 Dunsmuir & Beatty → 0037 Hornby & Nelson,133,1.518451127819549,8.461027568922304,66,Dunsmuir & Beatty,Hornby & Nelson
+0148 Creekside Park North,0045 Beach & Hornby,0148 Creekside Park North → 0045 Beach & Hornby,133,3.3731353383458647,18.317919799498746,16,Creekside Park North,Beach & Hornby
+0189 Granville Island,0009 Spyglass & Seawall,0189 Granville Island → 0009 Spyglass & Seawall,133,2.449872180451128,26.730576441102755,20,Granville Island,Spyglass & Seawall
+0099 šxʷƛ̓ənəq Xwtl'e7énḵ Square - Vancouver Art Gallery,0089 Burrard & Drake,0099 šxʷƛ̓ənəq Xwtl'e7énḵ Square - Vancouver Art Gallery → 0089 Burrard & Drake,132,1.3172878787878788,7.667171717171717,18,šxʷƛ̓ənəq Xwtl'e7énḵ Square - Vancouver Art Gallery,Burrard & Drake
+0028 Davie & Beach,0017 Marinaside & Davie,0028 Davie & Beach → 0017 Marinaside & Davie,132,3.8012803030303033,17.863131313131312,35,Davie & Beach,Marinaside & Davie
+0066 Anderson & 2nd,0193 Science World,0066 Anderson & 2nd → 0193 Science World,132,3.696174242424242,18.150883838383837,12,Anderson & 2nd,Science World
+0283 15th & Knight,0244 10th & Commercial,0283 15th & Knight → 0244 10th & Commercial,132,0.9221742424242425,5.267171717171717,18,15th & Knight,10th & Commercial
+0076 Cypress & 4th,0028 Davie & Beach,0076 Cypress & 4th → 0028 Davie & Beach,132,3.5107424242424243,16.87992424242424,27,Cypress & 4th,Davie & Beach
+0102 Stanley Park - Second Beach North,0092 Chilco & Barclay,0102 Stanley Park - Second Beach North → 0092 Chilco & Barclay,132,2.7391666666666667,21.268939393939394,47,Stanley Park - Second Beach North,Chilco & Barclay
+0300 Bute & Barclay,0313 Nelson & Denman,0300 Bute & Barclay → 0313 Nelson & Denman,132,1.0426515151515152,9.707575757575759,16,Bute & Barclay,Nelson & Denman
+0300 Bute & Barclay,0005 Dunsmuir & Beatty,0300 Bute & Barclay → 0005 Dunsmuir & Beatty,131,2.0931145038167935,12.498091603053435,31,Bute & Barclay,Dunsmuir & Beatty
+Stanley Park - Vancouver Aquarium,Stanley Park - Information Booth,Stanley Park - Vancouver Aquarium → Stanley Park - Information Booth,131,6.523893129770992,54.46450381679389,60,Stanley Park - Vancouver Aquarium,Stanley Park - Information Booth
+0229 Keefer & Princess,0053 Keefer & Abbott,0229 Keefer & Princess → 0053 Keefer & Abbott,131,1.46506106870229,10.753180661577609,26,Keefer & Princess,Keefer & Abbott
+0014 Canada Place,0122 Haro & Denman,0014 Canada Place → 0122 Haro & Denman,131,3.623320610687023,25.618956743002546,27,Canada Place,Haro & Denman
+0105 Stanley Park - Totem Poles,0047 Chilco & Beach,0105 Stanley Park - Totem Poles → 0047 Chilco & Beach,131,7.825564885496184,56.90699745547074,37,Stanley Park - Totem Poles,Chilco & Beach
+0159 Vine & 4th,0076 Cypress & 4th,0159 Vine & 4th → 0076 Cypress & 4th,130,0.8502846153846154,5.261410256410256,48,Vine & 4th,Cypress & 4th
+0012 Dunsmuir & Richards,0187 Bute & Davie,0012 Dunsmuir & Richards → 0187 Bute & Davie,130,2.0624307692307693,11.378076923076923,48,Dunsmuir & Richards,Bute & Davie
+0122 Haro & Denman,0310 Jervis & Robson,0122 Haro & Denman → 0310 Jervis & Robson,130,0.8265538461538462,8.472051282051282,66,Haro & Denman,Jervis & Robson
+0009 Spyglass & Seawall,0011 Ontario & Seawall,0009 Spyglass & Seawall → 0011 Ontario & Seawall,130,1.7405384615384616,23.78076923076923,11,Spyglass & Seawall,Ontario & Seawall
+0300 Bute & Barclay,0087 Broughton & Davie,0300 Bute & Barclay → 0087 Broughton & Davie,130,0.8070307692307692,4.66974358974359,45,Bute & Barclay,Broughton & Davie
+0217 Smithe & Burrard,0058 Richards & Smithe,0217 Smithe & Burrard → 0058 Richards & Smithe,130,0.8837538461538461,8.373205128205129,32,Smithe & Burrard,Richards & Smithe
+0189 Granville Island,0173 Columbia & 1st,0189 Granville Island → 0173 Columbia & 1st,129,3.0088372093023255,25.850387596899225,33,Granville Island,Columbia & 1st
+0089 Burrard & Drake,0099 šxʷƛ̓ənəq Xwtl'e7énḵ Square - Vancouver Art Gallery,0089 Burrard & Drake → 0099 šxʷƛ̓ənəq Xwtl'e7énḵ Square - Vancouver Art Gallery,129,1.0929612403100777,6.188630490956073,27,Burrard & Drake,šxʷƛ̓ənəq Xwtl'e7énḵ Square - Vancouver Art Gallery
+0217 Smithe & Burrard,0087 Broughton & Davie,0217 Smithe & Burrard → 0087 Broughton & Davie,129,1.239124031007752,6.1072351421188635,72,Smithe & Burrard,Broughton & Davie
+0222 Adanac & McLean,0221 Glen & Union,0222 Adanac & McLean → 0221 Glen & Union,129,0.8313643410852712,13.079974160206717,22,Adanac & McLean,Glen & Union
+0054 Expo & Carrall,0212 Union & Dunlevy,0054 Expo & Carrall → 0212 Union & Dunlevy,128,0.8214140625,5.764322916666667,13,Expo & Carrall,Union & Dunlevy
+0218 Carrall & Seawall,0173 Columbia & 1st,0218 Carrall & Seawall → 0173 Columbia & 1st,128,1.5226171875,8.387109375,13,Carrall & Seawall,Columbia & 1st
+0173 Columbia & 1st,0189 Granville Island,0173 Columbia & 1st → 0189 Granville Island,128,3.1290390625,18.817708333333332,37,Columbia & 1st,Granville Island
+0159 Vine & 4th,0484 Yew & Broadway,0159 Vine & 4th → 0484 Yew & Broadway,128,1.0475546875,12.800651041666667,44,Vine & 4th,Yew & Broadway
+0557 30th & Ontario,0531 18th & Cambie,0557 30th & Ontario → 0531 18th & Cambie,128,1.881203125,11.322786458333333,92,30th & Ontario,18th & Cambie
+0212 Union & Dunlevy,0012 Dunsmuir & Richards,0212 Union & Dunlevy → 0012 Dunsmuir & Richards,128,1.5990390625,12.982161458333334,43,Union & Dunlevy,Dunsmuir & Richards
+0028 Davie & Beach,0057 Marinaside & Cooperage,0028 Davie & Beach → 0057 Marinaside & Cooperage,128,4.1241328125,24.617838541666668,37,Davie & Beach,Marinaside & Cooperage
+0011 Ontario & Seawall,0053 Keefer & Abbott,0011 Ontario & Seawall → 0053 Keefer & Abbott,128,1.670046875,13.466536458333334,23,Ontario & Seawall,Keefer & Abbott
+0524 King Edward & Cambie,0557 30th & Ontario,0524 King Edward & Cambie → 0557 30th & Ontario,128,1.5305703125,8.388151041666667,85,King Edward & Cambie,30th & Ontario
+0464 Trafalgar & Broadway,0076 Cypress & 4th,0464 Trafalgar & Broadway → 0076 Cypress & 4th,128,1.6859375,8.375390625,98,Trafalgar & Broadway,Cypress & 4th
+2114 West Mall Swing Space Building,2154 Strangway Building,2114 West Mall Swing Space Building → 2154 Strangway Building,128,1.0541484375,19.38658854166667,63,West Mall Swing Space Building,Strangway Building
+0171 Yukon & 6th,0058 Richards & Smithe,0171 Yukon & 6th → 0058 Richards & Smithe,128,1.8783750000000001,9.604817708333334,15,Yukon & 6th,Richards & Smithe
+0089 Burrard & Drake,0024 Hornby & Pender,0089 Burrard & Drake → 0024 Hornby & Pender,128,1.6064609375,8.70859375,37,Burrard & Drake,Hornby & Pender
+0032 Comox & Denman,0048 Comox & Broughton,0032 Comox & Denman → 0048 Comox & Broughton,128,0.5735703125,6.054557291666667,79,Comox & Denman,Comox & Broughton

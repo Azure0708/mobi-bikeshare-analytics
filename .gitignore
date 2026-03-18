@@ -1,0 +1,18 @@
+# Raw data (too large)
+Mobi_System_Data_2025-*.csv
+Vancouver 2025-01-01 to 2025-09-30.csv
+bikeways_clean.csv
+
+# Tableau data - trips too large for GitHub
+tableau_data/trips_clean.csv
+
+# API keys
+geocode_stations.py
+bike location.py
+
+# Mac
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
